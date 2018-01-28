@@ -1,0 +1,10 @@
+div.title-header {
+	overflow: auto;
+}
+
+div.section-container {
+	border: 3px solid black;
+	
+	margin-top: 20px;
+	padding: 10px 20px;
+}
