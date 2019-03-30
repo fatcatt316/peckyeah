@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: #404042;
+}
+
+.main {
+  margin-right: 300px;
+}
+
+.sidebar {
+  top: 0;
+  left: auto;
+  right: 0;
+  position: fixed;
+  background-color: #75bf50;
+  height: 100%;
+  width: 300px;
+  padding-left: 20px;
+  text-align: left;
+}
+
+ul {
+  list-style: none;
+}
+
+/* Mobile or dinky screens */
+@media (max-width: 800px) {
+  body {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .main {
+    order: 2;
+    width: 100%;
+  }
+
+  .sidebar {
+    display: block;
+    float: none;
+    height: auto;
+    order: 1;
+    position: relative;
+    text-align: center;
+    width: 100%;
+  }
+}
