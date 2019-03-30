@@ -2,31 +2,48 @@
   <head>
     <title>Joe Peck here, reminding you to Joe for It!&copy;&trade;</title>
     <link rel='stylesheet' href='stylesheets/estilo.css'>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <meta charset='UTF-8'>
   </head>
   <body>
     <div class='main'>
-      <h1>Howdy! I'm Joe 👋</h1>
+      <h2>Howdy! I'm Joe 👋</h2>
       <div>
-        Here's more about me
+        <p>
+          I've been developing software professionally for over thirteen years, mainly with Ruby, Python, and Elixir. I'm big on code maintainability, teamwork, and intuitive UX.
+        </p>
+        <p>
+          Feel free to zing me an email at <a href='mailto:fatcatt316@yahoo.com'>fatcatt316@yahoo.com</a>.
+        </p>
       </div>
       <footer>
-        Copyright Joe Peck Industries, Ltd. &copy;&trade; 2018-2019 &reg;
+        Copyright Joe Peck Industries, Ltd. &copy;&trade; 2018-<span id='year-now'>2019</span> &reg;
       </footer>
     </div>
     <aside class='sidebar'>
       <h1>Joe Peck</h1>
       <nav>
         <ul>
-          <li><a href='./resume'>Resume</a></li>
-          <li><a href='https://www.linkedin.com/in/joepeck/'>LinkedIn</a></li>
-          <li><a href='https://github.com/fatcatt316'>GitHub</a></li>
-          <li></li>
-          <li><a href='https://twitter.com/fatcatt316'>Twitter</a></li>
-          <li><a href='mailto:fatcatt316@yahoo.com'>Email</a></li> <!-- TODO: NON-SPAM -->
+          <li>
+            <i class="fas fa-file-pdf"></i><a href='./resume'>Resume</a>
+          </li>
+          <li>
+            <i class="fab fa-linkedin"></i><a href='https://www.linkedin.com/in/joepeck/'>LinkedIn</a>
+          </li>
+          <li>
+            <i class="fab fa-github"></i><a href='https://github.com/fatcatt316'>GitHub</a>
+          </li>
+          <li>
+            <i class="fab fa-twitter"></i><a href='https://twitter.com/fatcatt316'>Twitter</a>
+          </li>
+          <li>
+            <i class="fas fa-paper-plane"></i><a href='mailto:fatcatt316@yahoo.com'>Email</a>
+          </li> <!-- TODO: NON-SPAM -->
         </ul>
       </nav>
-
     </aside>
+    <script>
+      document.getElementById('year-now').innerHTML = new Date().getFullYear();
+    </script>
   </body>
 </html>
