@@ -61,7 +61,7 @@ li {
 }
 
 /* Mobile or dinky screens */
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
   body {
     display: flex;
     flex-wrap: wrap;
