@@ -17,6 +17,10 @@ body {
   font-family: Optima, sans-serif;;
 }
 
+img {
+  width: 100%;
+}
+
 p {
   margin: 20px 0px;
 }
