@@ -93,7 +93,7 @@ li {
   to { color: white; }
 }
 
-#book-book {
+.blinky {
   -webkit-animation: color_change 1s infinite alternate;
   -moz-animation: color_change 1s infinite alternate;
   -ms-animation: color_change 1s infinite alternate;
