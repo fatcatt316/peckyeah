@@ -23,7 +23,7 @@ email: fatcatt316@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
   Joe Peck's trials and tribulations as he wanders through the Internet
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://peckyeah.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fatcatt316
 github_username:  fatcatt316
 
