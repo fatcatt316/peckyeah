@@ -1,0 +1,132 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+body {
+  color: #404042;
+  font-size: 22px;
+  font-family: Optima, sans-serif;;
+}
+
+img {
+  width: 100%;
+}
+
+p {
+  margin: 20px 0px;
+}
+
+.fab, .fas {
+  color: white;
+  width: 30px;
+}
+
+.main {
+  background-color: #FDFDFD;
+  margin-right: 300px;
+  padding: 100px 150px;
+}
+
+.main a {
+  color: green;
+}
+
+.main a:hover {
+  text-shadow: 0 0 10px #76ff73;
+}
+
+.sidebar {
+  background-color: #75bf50;
+  height: 100%;
+  left: auto;
+  padding: 200px 0px 0px 20px;
+  position: fixed;
+  right: 0;
+  text-align: left;
+  top: 0;
+  width: 300px;
+}
+
+.sidebar a {
+  color: white;
+}
+
+.sidebar a:hover {
+  text-shadow: 0 0 10px #000000;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin: 5px 0px;
+}
+
+@-webkit-keyframes color_change {
+  from { color: #CCC; }
+  to { color: white; }
+}
+@-moz-keyframes color_change {
+  from { color: #CCC; }
+  to { color: white; }
+}
+@-ms-keyframes color_change {
+  from { color: #CCC; }
+  to { color: white; }
+}
+@-o-keyframes color_change {
+  from { color: #CCC; }
+  to { color: white; }
+}
+@keyframes color_change {
+  from { color: #CCC; }
+  to { color: white; }
+}
+
+.blinky {
+  -webkit-animation: color_change 1s infinite alternate;
+  -moz-animation: color_change 1s infinite alternate;
+  -ms-animation: color_change 1s infinite alternate;
+  -o-animation: color_change 1s infinite alternate;
+  animation: color_change 1s infinite alternate;
+}
+
+/* Mobile or dinky screens */
+@media (max-width: 1000px) {
+  body {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 28px;
+  }
+
+  .main {
+    order: 2;
+    margin-right: 0px;
+    padding: 75px;
+  }
+
+  .sidebar {
+    display: block;
+    float: none;
+    height: auto;
+    order: 1;
+    padding: 50px 0px;
+    position: relative;
+    text-align: center;
+    width: 100%;
+  }
+
+  .sidebar li {
+    margin: 10px 0;
+  }
+}

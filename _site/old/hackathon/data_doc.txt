@@ -1,0 +1,28 @@
+Within [provider_state], it's
+[if state_out_of = 1]
+  the only hospital that treats this.
+[if state_out_of < 4]
+  the #[state_rank] most expensive out of #[state_out_of] hospitals that treat this.
+[else]
+  [state_percentile < 33]
+    one of the cheaper [places|hospitals|options] for treating this condition ([more expensive|pricier|costs more] than only [state_percentile]% of hospitals in the state).
+  [state_percentile < 66]
+    about average in terms of how much it charges for treatment.
+  [else]
+    one of the [more expensive|pricier] [places|hospitals|options] to get treatment (in the [state_percentile] percentile).
+
+
+[city_experiance]
+
+Within [provider_state], it's
+[if state_out_of = 1]
+  the only hospital that treats this.
+[if state_out_of < 4]
+  the #[state_rank] most expensive out of #[state_out_of] hospitals that treat this.
+[else]
+  [state_percentile < 33]
+    one of the cheaper [places|hospitals|options] for treating this condition ([more expensive|pricier|costs more] than only [state_percentile]% of hospitals in the state).
+  [state_percentile < 66]
+    about average in terms of how much it charges for treatment.
+  [else]
+    one of the [more expensive|pricier] [places|hospitals|options] to get treatment (in the [state_percentile] percentile).
