@@ -12,4 +12,3 @@ group :jekyll_plugins do
 end
 
 gem "stringex", "~> 2.8", require: false
-gem "thor", "1.0", require: false
