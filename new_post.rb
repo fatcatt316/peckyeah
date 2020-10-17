@@ -9,7 +9,7 @@ def create_post(*title)
 
   abort("#{filename} already exists!") if File.exist?(filename)
 
-  puts "Creating new post: #{filename}"
+  puts "Creating new post: \"#{filename}\""
   open(filename, 'w') do |post|
     post.puts "---"
     post.puts "layout: post"
