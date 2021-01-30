@@ -9,6 +9,7 @@ gem "github-pages", group: :jekyll_plugins # brings in Jekyll
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-redirect-from"
 end
 
 gem "stringex", "~> 2.8", require: false

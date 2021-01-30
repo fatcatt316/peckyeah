@@ -241,7 +241,6 @@ GEM
     stringex (2.8.5)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
-    thor (1.0.0)
     thread_safe (0.3.6)
     typhoeus (1.4.0)
       ethon (>= 0.9.0)
@@ -259,9 +258,9 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.12)
+  jekyll-redirect-from
   minima (~> 2.5)
   stringex (~> 2.8)
-  thor (= 1.0)
 
 BUNDLED WITH
    2.1.4
