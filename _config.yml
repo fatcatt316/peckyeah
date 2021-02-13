@@ -43,6 +43,9 @@ paginate: 5
 header_pages:
   - resume/index.html
 
+# Google Analytics
+google_analytics: G-659TF9LN6B
+
 # minima:
 #   header_pages:
 #     - joe.md
