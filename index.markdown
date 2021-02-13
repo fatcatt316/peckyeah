@@ -30,4 +30,5 @@ list_title: Recent Posts
 <p>
   🙇
 </p>
+
 <img src="/assets/images/joe-typing-away.png" alt="Joe pecking away on a laptop" title="Joe typing away on a laptop" />
