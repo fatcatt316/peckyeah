@@ -20,7 +20,7 @@
 
 title: PeckYeah
 email: joe@peckyeah.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "url:"
   Joe Peck's trials and tribulations as he wanders through the Internet
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://peckyeah.com/" # the base hostname & protocol for your site, e.g. http://example.com

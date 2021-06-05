@@ -16,7 +16,7 @@ list_title: Recent Posts
   When I'm not working away at software development, I like to wrassle around with my kids, play sports (🏀🏈⚽🥏🏓), travel, read, garden, and cook (and eat!).
 </p>
 
-<p>I'm also in the midst of writing a <a href="https://docs.google.com/forms/d/e/1FAIpQLSdSHAza-dYgLOqR20o_hwcTtbd1o4d2d5-0wM8Ssadpnh7hBQ/viewform">book about software development</a>. One thing I've learned is that it takes a long time to finish writing a book!</p>
+<p>I'm also in the midst of writing a <a href="https://leanpub.com/datadump/">book about software development</a>. One thing I've learned is that it takes a long time to finish writing a book!</p>
 <p>
   Feel free to send me an email at <script language="JavaScript">
               var name1 = 'e';
