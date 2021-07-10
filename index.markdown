@@ -70,7 +70,7 @@ list_title: Recent Posts
 
 <div style="text-align: center">
   <a href="https://leanpub.com/datadump/" target="_blank" class="get-the-book blinky">
-    👀 Get the book!
+    👀 Pre-Order the Book!
   </a>
 </div>
 
