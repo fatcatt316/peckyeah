@@ -1,4 +1,95 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-10T14:22:53-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">PeckYeah</title><subtitle>Joe Peck's trials and tribulations as he wanders through the Internet</subtitle><entry><title type="html">Designing the Book Cover</title><link href="http://localhost:4000/blog/designing-the-book-cover" rel="alternate" type="text/html" title="Designing the Book Cover" /><published>2021-06-05T14:46:47-04:00</published><updated>2021-06-05T14:46:47-04:00</updated><id>http://localhost:4000/blog/designing-the-book-cover</id><content type="html" xml:base="http://localhost:4000/blog/designing-the-book-cover">&lt;p&gt;Heck yeah, we’re moving ever closer to the actual release of this book!
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-18T23:11:09-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">PeckYeah</title><subtitle>Joe Peck's trials and tribulations as he wanders through the Internet</subtitle><entry><title type="html">The Book is Finished!</title><link href="http://localhost:4000/blog/the-book-is-finished" rel="alternate" type="text/html" title="The Book is Finished!" /><published>2021-10-18T20:53:49-04:00</published><updated>2021-10-18T20:53:49-04:00</updated><id>http://localhost:4000/blog/the-book-is-finished</id><content type="html" xml:base="http://localhost:4000/blog/the-book-is-finished">&lt;style&gt;
+  .parrot-de-fiesta {
+    text-align: center;
+    margin-top: -15px;
+  }
+  .data-dump-cover {
+    float: left;
+    margin: 0 20px 20px 0;
+  }
+
+  .get-the-book {
+    border: 3px solid green;
+    border-radius: 15px;
+    font-size: 30px;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+    background-color: #75bf50;
+    font-weight: bold;
+  }
+
+  .get-the-book:hover {
+    text-decoration: none;
+    background-color: #569537;
+    box-shadow: 0 0 15px green;
+  }
+
+
+
+  @-webkit-keyframes color_change {
+    from { color: #CCC; }
+    to { color: white; }
+  }
+  @-moz-keyframes color_change {
+    from { color: #CCC; }
+    to { color: white; }
+  }
+  @-ms-keyframes color_change {
+    from { color: #CCC; }
+    to { color: white; }
+  }
+  @-o-keyframes color_change {
+    from { color: #CCC; }
+    to { color: white; }
+  }
+  @keyframes color_change {
+    from { color: #CCC; }
+    to { color: white; }
+  }
+
+  .blinky {
+    -webkit-animation: color_change 1s infinite alternate;
+    -moz-animation: color_change 1s infinite alternate;
+    -ms-animation: color_change 1s infinite alternate;
+    -o-animation: color_change 1s infinite alternate;
+    animation: color_change 1s infinite alternate;
+  }
+
+  @media only screen and (max-width: 800px) {
+    .data-dump-cover {
+      text-align: center;
+      width: 100%;
+    }
+  }
+&lt;/style&gt;
+
+&lt;div class=&quot;data-dump-cover&quot;&gt;
+  &lt;a href=&quot;https://peckyeah.gumroad.com/l/datadump/peckyeah25&quot;&gt;
+    &lt;img src=&quot;/assets/images/data-dump-cover.jpg&quot; alt=&quot;Book cover, a marvelous work of art&quot; title=&quot;Stunning book cover art&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;text-align: center;width: 100%&quot;&gt;
+  &lt;a href=&quot;https://peckyeah.gumroad.com/l/datadump/peckyeah25&quot; target=&quot;_blank&quot; class=&quot;get-the-book blinky&quot;&gt;
+    Buy the Book
+  &lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;https://peckyeah.gumroad.com/l/datadump/linkedin25
+A few years ago, an &lt;a href=&quot;https://www.allthingsopen.org/&quot;&gt;All Things Open&lt;/a&gt; talk entitled “How to Write Your First Tech Book” gave me the &lt;strong&gt;gumption&lt;/strong&gt; to write the kind of book that I would’ve wanted to have when I first got into programming.&lt;/p&gt;
+
+&lt;p&gt;After tons of emails, interviews, coffee, writing, coffee, reviews, edits, coffee, and working with a cover designer, &lt;strong&gt;&lt;em&gt;Data Dump: Insider Advice from Software Professionals&lt;/em&gt;&lt;/strong&gt;, the book, is done and available!&lt;/p&gt;
+&lt;div class=&quot;parrot-de-fiesta&quot;&gt;
+  &lt;img src=&quot;/assets/images/party-parrot.gif&quot; alt=&quot;Party parrot&quot; title=&quot;There goes that crazy parrot&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;When I first started writing the book, a veteran tech author gave me the sage advice, “Just plan on it taking 2x longer to complete than you expect!” And boy was he right.&lt;/p&gt;
+
+&lt;p&gt;Thanks a &lt;strong&gt;&lt;em&gt;ton&lt;/em&gt;&lt;/strong&gt; to everyone who took part in the interviews, and everyone who helped edit the book. It’s finally done! If you have any questions or feedback about the book, please reach out by email or &lt;a href=&quot;https://twitter.com/fatcatt316&quot;&gt;on Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Por favor &lt;a href=&quot;./datadump.html&quot;&gt;head over here to read more about the book&lt;/a&gt;! Or, you can just &lt;a href=&quot;https://peckyeah.gumroad.com/l/datadump/peckyeah25&quot;&gt;buy the book here&lt;/a&gt; and use the code &lt;strong&gt;“peckyeah25”&lt;/strong&gt; to save 25%.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Designing the Book Cover</title><link href="http://localhost:4000/blog/designing-the-book-cover" rel="alternate" type="text/html" title="Designing the Book Cover" /><published>2021-06-05T14:46:47-04:00</published><updated>2021-06-05T14:46:47-04:00</updated><id>http://localhost:4000/blog/designing-the-book-cover</id><content type="html" xml:base="http://localhost:4000/blog/designing-the-book-cover">&lt;p&gt;Heck yeah, we’re moving ever closer to the actual release of this book!
 🙌&lt;/p&gt;
 
 &lt;p&gt;Since I finished &lt;a href=&quot;/blog/leanpub-mission-accomplished&quot;&gt;getting the book into Leanpub and fixing the formatting&lt;/a&gt;, I’ve been busy with some other book-related things, in the few hours I can squeeze out between work and family.&lt;/p&gt;

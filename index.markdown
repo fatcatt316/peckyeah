@@ -59,31 +59,13 @@ list_title: Recent Posts
 <h1>Howdy! I'm Joe 👋</h1>
 
 <p>
-  I've been developing software professionally for about 15 years, mainly with Ruby, Python, and Elixir. I'm big on code maintainability, teamwork, and intuitive UX.
+  I've been developing software professionally for about 15 years, mainly with Ruby, Elixir, and Python. I'm big on code maintainability, teamwork, and intuitive UX.
 </p>
 
 <p>
   When I'm not working away at software development, I like to wrassle around with my kids, play sports (🏀🏈⚽🥏🏓), travel, read, garden, and cook (and eat!).
 </p>
 
-<p>I'm also in the midst of writing a <a href="https://leanpub.com/datadump/">book about software development</a>. One thing I've learned is that it takes a long time to finish writing a book!</p>
+<p>I recently finished my first <a href="https://leanpub.com/datadump/">book about software development</a>. One thing I learned is that it takes a long time to finish writing a book!</p>
 
-<div style="text-align: center">
-  <a href="https://leanpub.com/datadump/" target="_blank" class="get-the-book blinky">
-    👀 Pre-Order the Book!
-  </a>
-</div>
-
-<p>
-  Feel free to send me an email at <script language="JavaScript">
-              var name1 = 'e';
-              var name2 = 'jo';
-              var yay = 'peckyeah.com';
-              document.write('<i class="fas fa-paper-plane"></i>')
-              document.write('<a href=\"mailto:' + name2 + name1 + '@' + yay + '\">');
-              document.write(name2 + name1 + '@' + yay + '</a>');
-            </script>.
-</p>
-<p>
-  🙇
-</p>
+If you'd like to find out more details, please <a href="./datadump.html">read more about the book here</a>.
