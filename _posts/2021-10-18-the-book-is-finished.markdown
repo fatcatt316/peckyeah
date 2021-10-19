@@ -83,7 +83,6 @@ categories:
 </div>
 <br />
 
-https://peckyeah.gumroad.com/l/datadump/linkedin25
 A few years ago, an [All Things Open](https://www.allthingsopen.org/) talk entitled "How to Write Your First Tech Book" gave me the **gumption** to write the kind of book that I would've wanted to have when I first got into programming.
 
 After tons of emails, interviews, coffee, writing, coffee, reviews, edits, coffee, and working with a cover designer, **_Data Dump: Insider Advice from Software Professionals_**, the book, is done and available!
