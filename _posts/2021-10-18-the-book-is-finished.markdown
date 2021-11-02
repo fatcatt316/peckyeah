@@ -94,4 +94,4 @@ When I first started writing the book, a veteran tech author gave me the sage ad
 
 Thanks a **_ton_** to everyone who took part in the interviews, and everyone who helped edit the book. It's finally done! If you have any questions or feedback about the book, please reach out by email or <a href="https://twitter.com/fatcatt316">on Twitter</a>.
 
-Por favor <a href="./datadump.html">head over here to read more about the book</a>! Or, you can just <a href="https://peckyeah.gumroad.com/l/datadump/peckyeah25">buy the book here</a> and use the code **"peckyeah25"** to save 25%.
+Por favor <a href="{{ 'datadump.html' | absolute_url }}">head over here to read more about the book</a>! Or, you can just <a href="https://peckyeah.gumroad.com/l/datadump/peckyeah25">buy the book here</a> and use the code **"peckyeah25"** to save 25%.
