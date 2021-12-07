@@ -79,8 +79,12 @@ list_title: Recent Posts
 </div>
 
 <div style="text-align: center;width: 100%">
+  <a href="https://www.amazon.com/Data-Dump-Experienced-Software-Professionals/dp/B09MC4WY5M/" target="_blank" class="get-the-book blinky">
+    Paperback
+  </a>
+
   <a href="https://peckyeah.gumroad.com/l/datadump/peckyeah25" target="_blank" class="get-the-book blinky">
-    Buy the Book
+    eBook
   </a>
 </div>
 Have you considered going into software development, but don't know where to begin?
@@ -93,9 +97,13 @@ Do you wish you could just join a huddle of **over 50 experienced software profe
 
 This book immerses the reader in a stew of real-life, useful advice that has actually helped experienced software professionals, so it’s very helpful for programming novices (and even experts, too!). _Data Dump_ helps make a career in software development **more accessible, feasible, and less daunting**.
 
-<div style="text-align: center">
-  <a href="https://leanpub.com/datadump" target="_blank" class="get-the-book blinky">
-    Buy the Book
+<div style="text-align: center;width: 100%">
+  <a href="https://www.amazon.com/Data-Dump-Experienced-Software-Professionals/dp/B09MC4WY5M/" target="_blank" class="get-the-book blinky">
+    Buy the Paperback
+  </a>
+
+  <a href="https://peckyeah.gumroad.com/l/datadump/peckyeah25" target="_blank" class="get-the-book blinky">
+    Buy the eBook
   </a>
 </div>
 

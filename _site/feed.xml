@@ -1,4 +1,86 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-01T21:43:47-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">PeckYeah</title><subtitle>Joe Peck's trials and tribulations as he wanders through the Internet</subtitle><entry><title type="html">The Book is Finished!</title><link href="http://localhost:4000/blog/the-book-is-finished" rel="alternate" type="text/html" title="The Book is Finished!" /><published>2021-10-18T20:53:49-04:00</published><updated>2021-10-18T20:53:49-04:00</updated><id>http://localhost:4000/blog/the-book-is-finished</id><content type="html" xml:base="http://localhost:4000/blog/the-book-is-finished">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-06T22:02:56-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">PeckYeah</title><subtitle>Joe Peck's trials and tribulations as he wanders through the Internet</subtitle><entry><title type="html">Data Dump: Now in Paperback!</title><link href="http://localhost:4000/blog/data-dump-now-in-paperback" rel="alternate" type="text/html" title="Data Dump: Now in Paperback!" /><published>2021-12-06T21:04:20-05:00</published><updated>2021-12-06T21:04:20-05:00</updated><id>http://localhost:4000/blog/data-dump-now-in-paperback</id><content type="html" xml:base="http://localhost:4000/blog/data-dump-now-in-paperback">&lt;style&gt;
+  .get-the-book {
+    border: 3px solid green;
+    border-radius: 15px;
+    font-size: 30px;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+    background-color: #75bf50;
+    font-weight: bold;
+  }
+
+  .get-the-book:hover {
+    text-decoration: none;
+    background-color: #569537;
+    box-shadow: 0 0 15px green;
+  }
+
+  @-webkit-keyframes color_change {
+    from { color: #CCC; }
+    to { color: white; }
+  }
+  @-moz-keyframes color_change {
+    from { color: #CCC; }
+    to { color: white; }
+  }
+  @-ms-keyframes color_change {
+    from { color: #CCC; }
+    to { color: white; }
+  }
+  @-o-keyframes color_change {
+    from { color: #CCC; }
+    to { color: white; }
+  }
+  @keyframes color_change {
+    from { color: #CCC; }
+    to { color: white; }
+  }
+
+  .blinky {
+    -webkit-animation: color_change 1s infinite alternate;
+    -moz-animation: color_change 1s infinite alternate;
+    -ms-animation: color_change 1s infinite alternate;
+    -o-animation: color_change 1s infinite alternate;
+    animation: color_change 1s infinite alternate;
+  }
+&lt;/style&gt;
+
+&lt;p&gt;As great as it was to finally get the &lt;a href=&quot;/blog/the-book-is-finished&quot;&gt;Data Dump book done and available as an ebook&lt;/a&gt;, it didn’t quite feel like The Real Thing™. Heck yeah, it was great to finally have this software development book published and available to the world, but it wasn’t tangible.&lt;/p&gt;
+
+&lt;p&gt;I had to ask myself, WWGD (What Would &lt;a href=&quot;https://en.wikipedia.org/wiki/Johannes_Gutenberg#Printing_press&quot;&gt;Gutenberg&lt;/a&gt; Do)? He’d print the dang book, that’s what! I slammed my fist onto my desk, resolute in my goal of printing this book. A portrait of Abraham Lincoln looked on, aloof and judgemental.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;% link _posts/2021-06-05-designing-the-book-cover.markdown&quot;&gt;I mentioned awhile back that I’d started working with a book cover designer&lt;/a&gt;. We’d ended up with a book cover that worked great for digital books, but the design needed a bit more work before it was ready to be used as a paperback cover design, partially because paperback book covers have to be sized according to how wide the book is (how many pages long it is).&lt;/p&gt;
+
+&lt;p&gt;During a recent family road trip to Florida, I took my wife’s advice and tried out Fiverr. I ended up finding &lt;a href=&quot;https://www.fiverr.com/rony8666&quot;&gt;a professional graphic designer who went by the name of Rony&lt;/a&gt;. After sending him the design files and talking with him a bit, I sent him the order.&lt;/p&gt;
+
+&lt;p&gt;He was great to work with – super responsive, thorough, and professional. After a little bit of back-and-forth designs, we landed on the final one.&lt;/p&gt;
+
+&lt;!-- &lt;div class=&quot;parrot-de-fiesta&quot;&gt; --&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/3d-data-dump-book-cover-front.jpg&quot; alt=&quot;3D Data Dump book cover&quot; title=&quot;Oh dang, a 3D book cover!&quot; /&gt;
+&lt;!-- &lt;/div&gt; --&gt;&lt;/p&gt;
+
+&lt;p&gt;After that, it was on to KDP (&lt;a href=&quot;https://kdp.amazon.com&quot;&gt;Amazon Kindle Direct Publishing&lt;/a&gt;), where I navigated a few forms, uploaded my print-ready PDF courtesy of &lt;a href=&quot;https://leanpub.com/datadump/&quot;&gt;LeanPub&lt;/a&gt;, and ordered a test paperback to mi casa.&lt;/p&gt;
+
+&lt;p&gt;A day or so after we hosted Thanksgiving, a mysterious book-shaped package arrived. Eager hands a-tremblin’, I tore open the package, and held the world’s first paperback copy (rare collector’s edition) of &lt;em&gt;Data Dump&lt;/em&gt;. Finally, a real book.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Data-Dump-Experienced-Software-Professionals/dp/B09MC4WY5M/&quot;&gt;
+&lt;img src=&quot;/assets/images/data-dump-paperback.png&quot; alt=&quot;Data Dump paperback really exists&quot; title=&quot;World's first paperback copy of Data Dump (Collector's Edition)&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/datadump.html&quot;&gt;Head over here if you’d like to read more about the book&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in a paperback version of this &lt;a href=&quot;https://www.amazon.com/Data-Dump-Experienced-Software-Professionals/dp/B09MC4WY5M/&quot;&gt;book aimed at people just starting their software development journey&lt;/a&gt;, please check it out. And if you’d rather get the ebook version, &lt;a href=&quot;https://peckyeah.gumroad.com/l/datadump/peckyeah25&quot;&gt;that’s available here&lt;/a&gt; (with a &lt;strong&gt;25% discount&lt;/strong&gt; for PeckYeah readers!).&lt;/p&gt;
+
+&lt;div style=&quot;text-align: center;width: 100%&quot;&gt;
+  &lt;a href=&quot;https://www.amazon.com/Data-Dump-Experienced-Software-Professionals/dp/B09MC4WY5M/&quot; target=&quot;_blank&quot; class=&quot;get-the-book blinky&quot;&gt;
+    Buy the Paperback
+  &lt;/a&gt;
+
+  &lt;a href=&quot;https://peckyeah.gumroad.com/l/datadump/peckyeah25&quot; target=&quot;_blank&quot; class=&quot;get-the-book blinky&quot;&gt;
+    Buy the eBook
+  &lt;/a&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">The Book is Finished!</title><link href="http://localhost:4000/blog/the-book-is-finished" rel="alternate" type="text/html" title="The Book is Finished!" /><published>2021-10-18T20:53:49-04:00</published><updated>2021-10-18T20:53:49-04:00</updated><id>http://localhost:4000/blog/the-book-is-finished</id><content type="html" xml:base="http://localhost:4000/blog/the-book-is-finished">&lt;style&gt;
   .parrot-de-fiesta {
     text-align: center;
     margin-top: -15px;
