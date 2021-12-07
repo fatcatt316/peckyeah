@@ -93,7 +93,7 @@ Does it seem like there's too much random advice about how to start programming?
 
 Do you wish you could just join a huddle of **over 50 experienced software professionals** and ask them what advice they'd have for someone beginning their coding journey?
 
-<a href="https://peckyeah.gumroad.com/l/datadump/peckyeah25">_Data Dump: Insider Advice from Experience Software Professionals_</a> does just that, by combining **battle-tested advice** from over 50 experienced coders, startup founders, and software managers, on subjects ranging from how to get into programming all the way to struggles they’ve faced in their software careers.
+<a href="https://peckyeah.gumroad.com/l/datadump/peckyeah25">_Data Dump: Insider Advice from Experienced Software Professionals_</a> does just that, by combining **battle-tested advice** from over 50 experienced coders, startup founders, and software managers, on subjects ranging from how to get into programming all the way to struggles they’ve faced in their software careers.
 
 This book immerses the reader in a stew of real-life, useful advice that has actually helped experienced software professionals, so it’s very helpful for programming novices (and even experts, too!). _Data Dump_ helps make a career in software development **more accessible, feasible, and less daunting**.
 
