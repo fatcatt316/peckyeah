@@ -58,7 +58,7 @@ As great as it was to finally get the [Data Dump book done and available as an e
 
 I had to ask myself, WWGD (What Would [Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg#Printing_press) Do)? He'd print the dang book, that's what! I slammed my fist onto my desk, resolute in my goal of printing this book. A portrait of Abraham Lincoln looked on, aloof and judgemental.
 
-[I mentioned awhile back that I'd started working with a book cover designer](% link _posts/2021-06-05-designing-the-book-cover.markdown). We'd ended up with a book cover that worked great for digital books, but the design needed a bit more work before it was ready to be used as a paperback cover design, partially because paperback book covers have to be sized according to how wide the book is (how many pages long it is).
+[I mentioned awhile back that I'd started working with a book cover designer]({% link _posts/2021-06-05-designing-the-book-cover.markdown %}). We'd ended up with a book cover that worked great for digital books, but the design needed a bit more work before it was ready to be used as a paperback cover design, partially because paperback book covers have to be sized according to how wide the book is (how many pages long it is).
 
 During a recent family road trip to Florida, I took my wife's advice and tried out Fiverr. I ended up finding [a professional graphic designer who went by the name of Rony](https://www.fiverr.com/rony8666). After sending him the design files and talking with him a bit, I sent him the order.
 
