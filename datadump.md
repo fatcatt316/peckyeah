@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: "Data Dump: Insider Advice from Experienced Software Professionals"
 list_title: Recent Posts
 ---
 
@@ -68,9 +69,6 @@ list_title: Recent Posts
     }
   }
 </style>
-
-<h1>Data Dump</h1>
-<h2>Insider Advice from Experienced Software Professionals</h2>
 
 <div class="data-dump-cover">
   <a href="https://peckyeah.gumroad.com/l/datadump/peckyeah25">
