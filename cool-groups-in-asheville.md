@@ -5,6 +5,7 @@
 layout: home
 title: "Cool Groups in Asheville"
 list_title: Recent Posts
+description: "Cool Groups in Asheville for those interested in tech startups, helping the environment, and co-working."
 ---
 
 <style>
