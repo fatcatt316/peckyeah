@@ -9,6 +9,14 @@ description: "Cool Groups in Asheville for those interested in tech startups, he
 ---
 
 <style>
+  section {
+    border-radius: 15px;
+    border: 3px solid green;
+    background-color: #EEEEEE;
+    padding: 15px;
+    margin-bottom: 10px;
+  }
+
   .covid-on-hold {
     background-color: #FFCCCC;
     border-radius: 15px;
@@ -20,12 +28,11 @@ description: "Cool Groups in Asheville for those interested in tech startups, he
 
   ul li::before {
     content: "\2606"; /* "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
-    /*color: red;  Change the color */
-    font-weight: bold; /* If you want it to be bold */
+    font-weight: bold;
     font-size: 20px;
     display: inline-block; /* Needed to add space between the bullet and the text */
-    width: 1.2em; /* Also needed for space (tweak if needed) */
-    margin-left: -1em; /* Also needed for space (tweak if needed) */
+    width: 1.2em; /* Also needed for space */
+    margin-left: -1em; /* Also needed for space */
   }
 
   li {
@@ -52,7 +59,7 @@ Here are some interesting, helpful groups I've found in Asheville. If you're int
     <li><a href="https://ventureasheville.com/?source=peckyeah.com">Venture Asheville</a> - building and helping Asheville entrepreneurs and business startups. Join their newsletter to stay up-to-date on the latest in Asheville's startup scene.</li>
     <li><a href="https://hatchinnovationhub.org/?source=peckyeah.com">Hatch AVL</a> - startup incubator and hub in Asheville! Hosting entrepreneur meetups and events in Asheville, and also a Slack channel</li>
     <li><a href="https://www.ashevillechamber.org/business-environment/talent-workforce/next-avl/?source=peckyeah.com">NEXT AVL</a> - professional mentorship program that pairs local college students with working professionals, with the goal of strengthening career opportunities in Asheville.</li>
-    <li title="ON HOLD DUE TO COVID" class="covid-on-hold"><a href="https://www.1millioncups.com/asheville?source=peckyeah.com">1 Million Cups Asheville</a> - <strong>ON HOLD DUE TO COVID</strong> an event for local entrepreneurs to meet.</li>
+    <li title="ON HOLD DUE TO COVID" class="covid-on-hold"><a href="https://www.1millioncups.com/asheville?source=peckyeah.com">1 Million Cups Asheville</a> - an event for local entrepreneurs to meet. <strong>ON HOLD DUE TO COVID</strong></li>
   </ul>
 </section>
 
@@ -66,21 +73,22 @@ Here are some interesting, helpful groups I've found in Asheville. If you're int
 </section>
 
 <section>
-<h2>🌎 Environmental Groups in Asheville</h2>
+  <h2>🌎 Environmental Groups in Asheville</h2>
   <ul>
     <li><a href="https://www.ashevillegreenworks.org/?source=peckyeah.com">GreenWorks</a> - the most active volunteer environmental organization in Western North Carolina. Lots of volunteer opportunities, recycling programs, and native tree giveaways. Sign up for their newsletter!</li>
     <li><a href="https://thecollider.org/?source=peckyeah.com">The Collider</a> - Asheville nonprofit working to advance climate solutions</li>
   </ul>
 </section>
 
+<section>
+  <h2>🤔 Know About Other Cool Groups in Asheville?</h2>
 
-<h2>🤔 Know About Other Cool Groups in Asheville?</h2>
+  If you know about another group in Asheville that deserves to be part of this auspicious list, let me know at <script language="JavaScript">
+                var name1 = 'e';
+                var name2 = 'jo';
+                var yay = 'peckyeah.com';
+                document.write(name2 + name1 + '@' + yay);
+              </script>!
+</section>
 
-If you know about another group in Asheville that deserves to be part of this auspicious list, let me know at <script language="JavaScript">
-              var name1 = 'e';
-              var name2 = 'jo';
-              var yay = 'peckyeah.com';
-              document.write(name2 + name1 + '@' + yay);
-            </script>!
-
-
+<div style="clear: both;"></div>
