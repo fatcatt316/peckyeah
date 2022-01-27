@@ -48,6 +48,7 @@ Here are some interesting, helpful groups I've found in Asheville. If you're int
     <li><a href="./datadump">📚 Data Dump: Insider Advice from Experienced Software Professionals</a> - A book in which I interview over 50 fellow software professionals to gather advice that's helped them in their software development careers. Great for people who are just starting their coding journey!</li>
     <li><a href="http://avlcoders.org/?source=peckyeah.com">Asheville Coders League</a> - friendly, local software developer group with in-person meetups and a Slack channel</li>
     <li><a href="https://www.codeforasheville.org/?source=peckyeah.com">Code for Asheville</a> - programming projects to improve politics and life in general in Asheville. They have local meetups and a Slack channel.</li>
+    <li><a href="https://ashevilletechevents.com/?source=peckyeah.com">Asheville Tech Events</a> - monthly newsletter to keep you up-to-date on what's happening in Asheville tech community!</li>
     <li><a href="https://www.meetup.com/Asheville-Women-in-Tech/?source=peckyeah.com">Asheville Women in Tech</a> - Local meetup focused on supporting women in tech environments.</li>
     <li><a href="https://abtech.edu/catalog/web-technologies?source=peckyeah.com">AB Tech Web Technologies</a> - local college classes about many web technologies and subjects!</li>
     <li><a href="https://meetthegeeks.net/?source=peckyeah.com">Meet the Geeks</a></li>
