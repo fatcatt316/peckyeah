@@ -86,6 +86,7 @@ Here are some interesting, helpful groups I've found in Asheville. If you're int
     <li><a href="https://www.meetup.com/Asheville-Science-Tavern/">Asheville Science Tavern</a> - if you're interested in citizen science, field trips to museums, river trips, stargazing, and social gatherings of others who love science, look into this group! Check out their <a href="https://www.youtube.com/channel/UC46ou4k0oIh3IX1JG8jZGfg">YouTube channel</a> for some of the things they've been up to.</li>
     <li><a href="https://thecollider.org/?source=peckyeah.com">The Collider</a> - Asheville nonprofit working to advance climate solutions.</li>
     <li><a href="https://ashevilleonbikes.com/?source=peckyeah.com">Asheville on Bikes</a> - dedicated to increasing safe bike riding around Asheville</li>
+    <li><a href="https://www.watchformenc.org/about/partner-community-profiles/asheville/?source=peckyeah.com">Watch for Me NC</a> - focused on making cities safer for pedestrians and bikers</li>
   </ul>
 </section>
 
