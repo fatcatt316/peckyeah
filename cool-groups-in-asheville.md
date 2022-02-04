@@ -5,7 +5,7 @@
 layout: home
 title: "Cool Groups in Asheville"
 list_title: Recent Posts
-description: "Cool Groups in Asheville for those interested in tech startups, helping the environment, and co-working."
+description: "Cool Groups in Asheville for those interested in tech startups, helping the environment, Asheville government, and co-working in Asheville."
 ---
 
 <style>
@@ -20,6 +20,16 @@ description: "Cool Groups in Asheville for those interested in tech startups, he
   .covid-on-hold {
     background-color: #FFCCCC;
     border-radius: 15px;
+  }
+
+  h2 a {
+    text-decoration: none;
+    color: black;
+  }
+
+  h2 a:hover {
+    text-decoration: none;
+    color: black;
   }
 
   ul {
@@ -43,7 +53,15 @@ description: "Cool Groups in Asheville for those interested in tech startups, he
 Here are some interesting, helpful groups I've found in Asheville. If you're interested in software development, startups, and the environment, por favor check some of these out!
 
 <section>
-  <h2>💻 Asheville Software Engineering</h2>
+  <a href="#asheville-government">Asheville Government</a> &diams;
+  <a href="#asheville-software-engineering">Asheville Software Engineering</a> &diams;
+  <a href="#asheville-entrepreneurs-and-startups">Asheville Entrepreneurs and Startups</a> &diams;
+  <a href="#asheville-co-working">Asheville Co-Working</a> &diams;
+  <a href="#environmental-groups-in-asheville">Environmental Groups in Asheville</a>
+</section>
+
+<section>
+  <h2><a id="asheville-software-engineering">💻 Asheville Software Engineering</a></h2>
   <ul>
     <li><a href="./datadump">📚 Data Dump: Insider Advice from Experienced Software Professionals</a> - A book in which I interview over 50 fellow software professionals to gather advice that's helped them in their software development careers. Great for people who are just starting their coding journey!</li>
     <li><a href="http://avlcoders.org/?source=peckyeah.com">Asheville Coders League</a> - friendly, local software developer group with in-person meetups and a Slack channel</li>
@@ -56,7 +74,7 @@ Here are some interesting, helpful groups I've found in Asheville. If you're int
 </section>
 
 <section>
-  <h2>🤝 Asheville Entrepreneurs and Startups</h2>
+  <h2><a id="asheville-entrepreneurs-and-startups">🤝 Asheville Entrepreneurs and Startups</a></h2>
   <ul>
     <li><a href="https://ventureasheville.com/?source=peckyeah.com">Venture Asheville</a> - building and helping Asheville entrepreneurs and business startups. Join their newsletter to stay up-to-date on the latest in Asheville's startup scene.</li>
     <li><a href="https://hatchinnovationhub.org/?source=peckyeah.com">Hatch AVL</a> - startup incubator and hub in Asheville! Hosting entrepreneur meetups and events in Asheville, and also a Slack channel</li>
@@ -66,7 +84,7 @@ Here are some interesting, helpful groups I've found in Asheville. If you're int
 </section>
 
 <section>
-  <h2>🧳 Asheville Co-Working</h2>
+  <h2><a id="asheville-co-working">🧳 Asheville Co-Working</a></h2>
   <ul>
     <li><a href="https://www.hatchcoworking.com/">Hatchworks Co-working</a></li>
     <li><a href="https://www.centerforcraft.org/cowork?source=peckyeah.com">Center for Craft</a></li>
@@ -81,7 +99,7 @@ Here are some interesting, helpful groups I've found in Asheville. If you're int
 </section>
 
 <section>
-  <h2>🌎 Environmental Groups in Asheville</h2>
+  <h2><a id="environmental-groups-in-asheville">🌎 Environmental Groups in Asheville</a></h2>
   <ul>
     <li><a href="https://www.ashevillegreenworks.org/?source=peckyeah.com">GreenWorks</a> - the most active volunteer environmental organization in Western North Carolina. Lots of volunteer opportunities, recycling programs, and native tree giveaways. Sign up for their newsletter!</li>
     <li><a href="https://riverlink.org/?source=peckyeah.com">RiverLink</a> - Helps promote the environment and economy of the French Broad River and its watershed.</li>
@@ -93,7 +111,7 @@ Here are some interesting, helpful groups I've found in Asheville. If you're int
 </section>
 
 <section>
-  <h2>🏛 Asheville Government</h2>
+  <h2><a id="asheville-government">🏛 Asheville Government</a></h2>
   <ul>
     <li><a href="https://gapavl.org/">Government Accountability Project Asheville</a> - working to get more local government news to the public</li>
     <li><a href="https://openmeetingspolicy.com/">Open Meetings Policy</a> - pushing for more transparency and public awareness of government goings-on</li>
