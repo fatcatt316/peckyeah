@@ -79,7 +79,7 @@ Here are some interesting, helpful groups I've found in Asheville. If you're int
     <li><a href="https://ventureasheville.com/?source=peckyeah.com">Venture Asheville</a> - building and helping Asheville entrepreneurs and business startups. Join their newsletter to stay up-to-date on the latest in Asheville's startup scene.</li>
     <li><a href="https://hatchinnovationhub.org/?source=peckyeah.com">Hatch AVL</a> - startup incubator and hub in Asheville! Hosting entrepreneur meetups and events in Asheville, and also a Slack channel</li>
     <li><a href="https://www.ashevillechamber.org/business-environment/talent-workforce/next-avl/?source=peckyeah.com">NEXT AVL</a> - professional mentorship program that pairs local college students with working professionals, with the goal of strengthening career opportunities in Asheville.</li>
-    <li title="ON HOLD DUE TO COVID" class="covid-on-hold"><a href="https://www.1millioncups.com/asheville?source=peckyeah.com">1 Million Cups Asheville</a> - an event for local entrepreneurs to meet. <strong>ON HOLD DUE TO COVID</strong></li>
+    <li><a href="https://www.1millioncups.com/asheville?source=peckyeah.com">1 Million Cups Asheville</a> - want to meet local entrepreneurs? Check out 1 Million Cups.</li>
   </ul>
 </section>
 
