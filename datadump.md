@@ -12,6 +12,7 @@ list_title: Recent Posts
     float: left;
     margin: 0 20px 20px 0;
   }
+
   .get-the-book {
     border: 3px solid green;
     border-radius: 15px;
@@ -58,7 +59,7 @@ list_title: Recent Posts
     animation: color_change 1s infinite alternate;
   }
 
-  body {
+  main {
     font-size: 20px;
   }
 
