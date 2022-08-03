@@ -5,7 +5,7 @@
 layout: home
 title: "Cool Groups in Asheville"
 list_title: Recent Posts
-description: "Cool Groups in Asheville for those interested in tech startups, helping the environment, Asheville government, and co-working in Asheville."
+description: "Cool Groups in Asheville for those interested in tech startups, helping the environment, Asheville government, sports, and co-working in Asheville."
 ---
 
 <style>
@@ -57,7 +57,8 @@ Here are some interesting, helpful groups I've found in Asheville. If you're int
   <a href="#asheville-software-engineering">Asheville Software Engineering</a> &diams;
   <a href="#asheville-entrepreneurs-and-startups">Asheville Entrepreneurs and Startups</a> &diams;
   <a href="#asheville-co-working">Asheville Co-Working</a> &diams;
-  <a href="#environmental-groups-in-asheville">Environmental Groups in Asheville</a>
+  <a href="#environmental-groups-in-asheville">Environmental Groups in Asheville</a> &diams;
+  <a href="#asheville-sports">Asheville Sports</a>
 </section>
 
 <section>
@@ -115,6 +116,13 @@ Here are some interesting, helpful groups I've found in Asheville. If you're int
   <ul>
     <li><a href="https://gapavl.org/">Government Accountability Project Asheville</a> - working to get more local government news to the public</li>
     <li><a href="https://openmeetingspolicy.com/">Open Meetings Policy</a> - pushing for more transparency and public awareness of government goings-on</li>
+  </ul>
+</section>
+
+<section>
+  <h2><a id="asheville-sports">🥏 Asheville Sports</a></h2>
+  <ul>
+    <li><a href="https://ashevilleultimate.org/">Asheville Ultimate Club</a> - wanna play some ultimate frisbee? Well check <em>this</em> out!</li>
   </ul>
 </section>
 

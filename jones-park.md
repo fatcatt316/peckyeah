@@ -34,7 +34,7 @@ Please <strong>call or email your support to all city council members: </strong>
 </p>
 
 <p>
-Please attend the next city council meeting May 24, 5 PM Asheville Civic Center, 87 Haywood Street. Please sign up to speak in support of Jones Park Playground.
+<strong>Please attend the next city council meeting May 24, 5 PM Asheville Civic Center, 87 Haywood Street</strong>. Please sign up to speak in support of Jones Park Playground.
 </p>
 
 <p>
