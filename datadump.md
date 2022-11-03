@@ -96,7 +96,7 @@ Do you wish you could just join a huddle of **over 50 experienced software profe
 
 This book immerses the reader in a stew of real-life, useful advice that has actually helped experienced software professionals, so it’s very helpful for programming novices (and even experts, too!). _Data Dump_ helps make a career in software development **more accessible, feasible, and less daunting**.
 
-👀 Check out the table of contents (along with some free sample chapters!) [over here](./table-of-contents).
+👀 Check out the table of contents (along with some free sample chapters!) [over here]({{ site.baseurl }}/datadump/table-of-contents).
 
 <div style="text-align: center;width: 100%">
   <a href="https://www.amazon.com/Data-Dump-Experienced-Software-Professionals/dp/B09MC4WY5M/" target="_blank" class="get-the-book blinky">
