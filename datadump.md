@@ -86,17 +86,24 @@ list_title: Recent Posts
     eBook
   </a>
 </div>
-Have you considered going into software development, but don't know where to begin?
 
-Does it seem like there's too much random advice about how to start programming?
+## Who's this Book for?
+People who are considering getting into (or have recently started) software engineering, but don't know where to begin, or what to expect.
 
-Do you wish you could just join a huddle of **over 50 experienced software professionals** and ask them what advice they'd have for someone beginning their coding journey?
+## What's in the Book?
+Interviews with over 50 experienced coders, startup founders, and software managers, on subjects ranging from how to get into programming all the way to struggles they’ve faced in their software careers.
 
-<a href="https://peckyeah.gumroad.com/l/datadump/peckyeah25">_Data Dump: Insider Advice from Experienced Software Professionals_</a> does just that, by combining **battle-tested advice** from over 50 experienced coders, startup founders, and software managers, on subjects ranging from how to get into programming all the way to struggles they’ve faced in their software careers.
+They also share things that they wish _they'd_ known back when they first started in their software careers.
 
-This book immerses the reader in a stew of real-life, useful advice that has actually helped experienced software professionals, so it’s very helpful for programming novices (and even experts, too!). _Data Dump_ helps make a career in software development **more accessible, feasible, and less daunting**.
+All their answers are consolidated and summarized by someone (me!) with over 15 years of software engineering experience.
 
-👀 Check out the table of contents (along with some free sample chapters!) [over here]({{ site.baseurl }}/datadump/table-of-contents).
+_Data Dump_ helps make a career in software development **more accessible, feasible, and less daunting**.
+
+## Free Samples 🤑
+
+👀 Check out the [table of contents]({{ site.baseurl }}/datadump/table-of-contents) (along with some **free sample chapters**) [over here]({{ site.baseurl }}/datadump/table-of-contents).
+
+## How Can I Buy It?
 
 <div style="text-align: center;width: 100%">
   <a href="https://www.amazon.com/Data-Dump-Experienced-Software-Professionals/dp/B09MC4WY5M/" target="_blank" class="get-the-book blinky">
@@ -108,6 +115,8 @@ This book immerses the reader in a stew of real-life, useful advice that has act
   </a>
 </div>
 
-Guests of PeckYeah can **save 25%** by using the code "peckyeah25" to <a href="https://peckyeah.gumroad.com/l/datadump/peckyeah25">buy the book here</a>.
+Guests of PeckYeah can **save 25%** on the eBook by using the code "peckyeah25" to <a href="https://peckyeah.gumroad.com/l/datadump/peckyeah25">buy the book here</a>.
 
-Thanks to everyone who took part in the interviews, and everyone who helped edit the book. It's finally done! If you have any questions or feedback about the book, please reach out by email or <a href="https://twitter.com/fatcatt316">on Twitter</a>.
+## Have Some Feedback?
+
+Thanks to everyone who took part in the interviews, and everyone who helped edit the book. It's finally done! If you have any questions or feedback about the book, please reach out <a href="mailto:joe@peckyeah.com">by email</a> or <a href="https://twitter.com/fatcatt316">on Twitter</a>.
