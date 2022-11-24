@@ -59,12 +59,12 @@ list_title: Recent Posts
   }
 
   ul {
-    padding-top: 10px;
-    list-style-type: none;
+    padding-top: 25px;
+    list-style-type: "⭐️ ";
   }
 
   li {
-    padding-bottom: 10px;
+    padding-bottom: 25px;
   }
 
   .free-sample {
@@ -79,6 +79,8 @@ list_title: Recent Posts
     padding-bottom: 40px;
   }
 </style>
+
+Please peruse the table of contents of <a href="{{ 'datadump' | absolute_url }}">"Data Dump: Insider Advice from Experienced Software Professionals"</a> below. Don't forget to check out the free sample chapters, too!
 
 ## Table of Contents
 
