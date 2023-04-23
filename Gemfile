@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem "minima", "~> 2.5"
 # gem 'jekyll-theme-hyde', '~> 2.0'
 
-gem "github-pages", "~> 222",  group: :jekyll_plugins # brings in Jekyll
+gem "github-pages", "~> 228",  group: :jekyll_plugins # brings in Jekyll
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -13,3 +13,5 @@ group :jekyll_plugins do
 end
 
 gem "stringex", "~> 2.8", require: false
+
+gem "webrick", "~> 1.8"
