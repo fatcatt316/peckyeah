@@ -1,4 +1,138 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-23T12:27:27-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">PeckYeah</title><subtitle>Joe Peck&apos;s trials and tribulations as he wanders through the Internet</subtitle><entry><title type="html">Data Dump: Now in Paperback!</title><link href="http://localhost:4000/blog/data-dump-now-in-paperback" rel="alternate" type="text/html" title="Data Dump: Now in Paperback!" /><published>2021-12-06T21:04:20-05:00</published><updated>2021-12-06T21:04:20-05:00</updated><id>http://localhost:4000/blog/data-dump-now-in-paperback</id><content type="html" xml:base="http://localhost:4000/blog/data-dump-now-in-paperback">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-10-02T16:25:31-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">PeckYeah</title><subtitle>Joe Peck&apos;s trials and tribulations as he wanders through the Internet</subtitle><entry><title type="html">How to Write a Tech Book</title><link href="http://localhost:4000/blog/how-to-write-a-tech-book" rel="alternate" type="text/html" title="How to Write a Tech Book" /><published>2023-10-02T12:31:55-04:00</published><updated>2023-10-02T12:31:55-04:00</updated><id>http://localhost:4000/blog/how-to-write-a-tech-book</id><content type="html" xml:base="http://localhost:4000/blog/how-to-write-a-tech-book">&lt;style&gt;
+  .data-dump-cover {
+    float: left;
+    margin: 0 20px 20px 0;
+  }
+
+  .get-the-book {
+    border: 3px solid green;
+    border-radius: 15px;
+    font-size: 30px;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+    background-color: #75bf50;
+    font-weight: bold;
+  }
+
+  .get-the-book:hover {
+    text-decoration: none;
+    background-color: #569537;
+    box-shadow: 0 0 15px green;
+  }
+
+  @-webkit-keyframes color_change {
+    from { color: #CCC; }
+    to { color: white; }
+  }
+  @-moz-keyframes color_change {
+    from { color: #CCC; }
+    to { color: white; }
+  }
+  @-ms-keyframes color_change {
+    from { color: #CCC; }
+    to { color: white; }
+  }
+  @-o-keyframes color_change {
+    from { color: #CCC; }
+    to { color: white; }
+  }
+  @keyframes color_change {
+    from { color: #CCC; }
+    to { color: white; }
+  }
+
+  .blinky {
+    -webkit-animation: color_change 1s infinite alternate;
+    -moz-animation: color_change 1s infinite alternate;
+    -ms-animation: color_change 1s infinite alternate;
+    -o-animation: color_change 1s infinite alternate;
+    animation: color_change 1s infinite alternate;
+  }
+
+  main {
+    font-size: 20px;
+  }
+
+  @media only screen and (max-width: 800px) {
+    .data-dump-cover {
+      text-align: center;
+      width: 100%;
+    }
+  }
+&lt;/style&gt;
+
+&lt;p&gt;You’ve probably already heard the biggest news in the literary world since [REDACTED] killed Dumbledore, but I finished writing my first book – a &lt;a href=&quot;./datadump.html&quot;&gt;tech book aimed at people who are just getting started in their software development career&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Are you an aspiring author who “has a book inside them”, as people are wont to say, but you just don’t know where to start? Have you wondered how you can get your book from an idea all the way to a &lt;strong&gt;published international best-seller&lt;/strong&gt;?&lt;/p&gt;
+
+&lt;p&gt;Well gather ‘round if you want to find out &lt;strong&gt;how to write a tech book&lt;/strong&gt; – I’ll let ye in on some of the &lt;em&gt;tips o’ the trade&lt;/em&gt; that I picked up while writing mine.&lt;/p&gt;
+
+&lt;h2 id=&quot;writing-a-draft&quot;&gt;Writing a Draft&lt;/h2&gt;
+
+&lt;p&gt;I started off writing my book in good ol’ &lt;a href=&quot;https://docs.google.com&quot;&gt;Google Docs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Not only is it free, but it made it &lt;em&gt;very easy&lt;/em&gt; to share early copies with friends/enemies, allowing me to get their feedback.&lt;/p&gt;
+
+&lt;p&gt;Plus, the document outline on the side made it easy to jump around to different sections of the book, which I did a &lt;em&gt;ton&lt;/em&gt; of while organizing and editing everything a hundred times.&lt;/p&gt;
+
+&lt;h3 id=&quot;driving-away-distractions&quot;&gt;Driving Away Distractions&lt;/h3&gt;
+
+&lt;p&gt;I used a Chrome extension called &lt;a href=&quot;https://chrome.google.com/webstore/detail/distraction-free-mode-%E2%80%94-g/blmejkgbnceohgjfnoiegdlbfkmpkeha&quot;&gt;Distraction Free Mode&lt;/a&gt; to improve my focus while writing. It helped me concentrate on writing, instead of being distracted every ten seconds by something else. This ended up helping a bunch!&lt;/p&gt;
+
+&lt;p&gt;To block out other distractions, I oft listened to my &lt;a href=&quot;/playlist&quot;&gt;Special Book Writin’ Music Playlist&lt;/a&gt;. Perhaps because it doesn’t have lyrics, it didn’t distract me from my work, but instead helped me &lt;em&gt;focus up&lt;/em&gt; on the work of making a book from scratch.&lt;/p&gt;
+
+&lt;h2 id=&quot;prepping-for-publishing&quot;&gt;Prepping for Publishing&lt;/h2&gt;
+
+&lt;p&gt;After &lt;a href=&quot;/blog/set-sail-for-leanpub&quot;&gt;dabbling with a publisher or two&lt;/a&gt;, &lt;a href=&quot;./set-sail-for-leanpub&quot;&gt;I made the executive decision to self-publish&lt;/a&gt; with &lt;a href=&quot;https://leanpub.com/&quot;&gt;Leanpub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Leanpub uses its own flavor of Markdown for formatting. I found this handy &lt;a href=&quot;https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607&quot;&gt;Docs to Markdown add-on&lt;/a&gt; which automatically converts Google Docs to markdown.&lt;/p&gt;
+
+&lt;p&gt;It did a pretty good job of transforming my Google Docs to Markdown, saving me a lot of time. I still had to manually fix a ton of footnotes, and a few weird non-UTF8 characters, but overall it worked bueno, and was &lt;em&gt;way&lt;/em&gt; faster than trying to convert all the formatting by hand.&lt;/p&gt;
+
+&lt;h2 id=&quot;designing-the-book-cover&quot;&gt;Designing the Book Cover&lt;/h2&gt;
+
+&lt;p&gt;After trying to do this meself by messing around in &lt;a href=&quot;https://www.canva.com/&quot;&gt;Canva&lt;/a&gt; for a bit, I figured this was a job best left to the experts.&lt;/p&gt;
+
+&lt;p&gt;I sought out famed Asheville designer &lt;a href=&quot;https://www.alexminkindesign.com/&quot;&gt;Alex Minkin&lt;/a&gt; to see if he was down to help design an award-winning book cover. After a few phone calls and emails, he whipped me up a great cover.&lt;/p&gt;
+
+&lt;p&gt;It wasn’t even close to anything I’d pictured; instead, it was better.&lt;/p&gt;
+
+&lt;p&gt;That worked perfectly for the ebook cover. For the paperback, though, I had to call in a specialist, since it has to be certain dimensions (to fit the size of the book). After consulting with such search engines as Ask Jeeves and Bing, I beseeched &lt;a href=&quot;https://www.fiverr.com/&quot;&gt;Fiverr&lt;/a&gt; for help with this. Within a couple days, I had the finished book cover files!&lt;/p&gt;
+
+&lt;h2 id=&quot;publishing-and-selling-&quot;&gt;Publishing and Selling 🤑&lt;/h2&gt;
+
+&lt;h3 id=&quot;publishing-the-ebook&quot;&gt;Publishing the ebook&lt;/h3&gt;
+
+&lt;p&gt;By now, I basically had a &lt;strong&gt;real, live, honest-to-goodness, scratch-made book&lt;/strong&gt;. But how could I sell it? What were the final steps needed to get this across the finish line, and into the hands of the yearning public?&lt;/p&gt;
+
+&lt;p&gt;For digital copies (ebooks), I used &lt;a href=&quot;https://leanpub.com/datadump/&quot;&gt;Leanpub&lt;/a&gt; and &lt;a href=&quot;https://peckyeah.gumroad.com/l/datadump&quot;&gt;Gumroad&lt;/a&gt;. Getting everything set up on these sites was easy peasy, and within the day people were able to buy an ebook copy of &lt;a href=&quot;./datadump.html&quot;&gt;Data Dump&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I wiped away the tears of joy that blurred my eyes, since I still had one more hurdle to overcome; &lt;a href=&quot;data-dump-now-in-paperback&quot;&gt;getting a physical copy of the book out into the world&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;publishing-a-hard-copy-book&quot;&gt;Publishing a hard copy book&lt;/h3&gt;
+
+&lt;p&gt;Focusing my chi, I fired up my dialup internet modem and began the minutes-long process of loading up &lt;a href=&quot;https://kdp.amazon.com/en_US/bookshelf&quot;&gt;Amazon Kindle Direct Publishing&lt;/a&gt;. Not only did this give me yet another place to sell ebook copies of “Data Dump”, it also opened the door to publishing a paperback version!&lt;/p&gt;
+
+&lt;p&gt;There was a pretty easy, intuitive setup process for this, including a step where I uploaded the custom-made paperback cover that I’d gotten from Fiverr.&lt;/p&gt;
+
+&lt;p&gt;Once you get everything set up, you can order a free test copy, just to make sure everything looks right.&lt;/p&gt;
+
+&lt;p&gt;I spent a night or two &lt;strong&gt;perusing the paperback&lt;/strong&gt;, finding a bunch of small mistakes (it was a lot easier to find these in a hard copy than the ebook I’d previously proofread!).&lt;/p&gt;
+
+&lt;p&gt;After fixing everything up in Leanpub, I updated the ebook and hard copy versions, and popped the book into Amazon’s marketplace. At long last, I had made the big time. I began dabbing in celebration, and haven’t stopped since.&lt;/p&gt;
+
+&lt;div style=&quot;text-align: center;width: 100%&quot;&gt;
+  &lt;a href=&quot;https://www.amazon.com/Data-Dump-Experienced-Software-Professionals/dp/B09MC4WY5M/&quot; target=&quot;_blank&quot; class=&quot;get-the-book blinky&quot;&gt;
+    Buy the Paperback
+  &lt;/a&gt;
+
+  &lt;a href=&quot;https://peckyeah.gumroad.com/l/datadump/peckyeah25&quot; target=&quot;_blank&quot; class=&quot;get-the-book blinky&quot;&gt;
+    Buy the eBook
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Guests of PeckYeah can &lt;strong&gt;save 25%&lt;/strong&gt; on the eBook by using the code “peckyeah25” to &lt;a href=&quot;https://peckyeah.gumroad.com/l/datadump/peckyeah25&quot;&gt;buy the book here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Data Dump: Now in Paperback!</title><link href="http://localhost:4000/blog/data-dump-now-in-paperback" rel="alternate" type="text/html" title="Data Dump: Now in Paperback!" /><published>2021-12-06T21:04:20-05:00</published><updated>2021-12-06T21:04:20-05:00</updated><id>http://localhost:4000/blog/data-dump-now-in-paperback</id><content type="html" xml:base="http://localhost:4000/blog/data-dump-now-in-paperback">&lt;style&gt;
   .get-the-book {
     border: 3px solid green;
     border-radius: 15px;

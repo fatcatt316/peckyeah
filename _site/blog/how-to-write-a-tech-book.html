@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>How to Write a Tech Book | PeckYeah</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="How to Write a Tech Book" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Joe Peck’s trials and tribulations as he wanders through the Internet" />
+<meta property="og:description" content="Joe Peck’s trials and tribulations as he wanders through the Internet" />
+<link rel="canonical" href="http://localhost:4000/blog/how-to-write-a-tech-book" />
+<meta property="og:url" content="http://localhost:4000/blog/how-to-write-a-tech-book" />
+<meta property="og:site_name" content="PeckYeah" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-10-02T12:31:55-04:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="How to Write a Tech Book" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-10-02T12:31:55-04:00","datePublished":"2023-10-02T12:31:55-04:00","description":"Joe Peck’s trials and tribulations as he wanders through the Internet","headline":"How to Write a Tech Book","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/blog/how-to-write-a-tech-book"},"url":"http://localhost:4000/blog/how-to-write-a-tech-book"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="PeckYeah" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">PeckYeah</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/datadump">Data Dump: Insider Advice from Experienced Software Professionals</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <!-- TODO: Get this CSS outta here! -->
+<style>
+  .PageNavigation {
+    font-size: 14px;
+    display: block;
+    width: auto;
+    overflow: hidden;
+  }
+
+  .PageNavigation a {
+    display: block;
+    width: 50%;
+    float: left;
+    margin: 1em 0;
+  }
+
+  .PageNavigation .next {
+    text-align: right;
+  }
+</style>
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">How to Write a Tech Book</h1>
+    <p class="post-meta"><time class="dt-published" datetime="2023-10-02T12:31:55-04:00" itemprop="datePublished">
+        October 2, 2023
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <style>
+  .data-dump-cover {
+    float: left;
+    margin: 0 20px 20px 0;
+  }
+
+  .get-the-book {
+    border: 3px solid green;
+    border-radius: 15px;
+    font-size: 30px;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+    background-color: #75bf50;
+    font-weight: bold;
+  }
+
+  .get-the-book:hover {
+    text-decoration: none;
+    background-color: #569537;
+    box-shadow: 0 0 15px green;
+  }
+
+  @-webkit-keyframes color_change {
+    from { color: #CCC; }
+    to { color: white; }
+  }
+  @-moz-keyframes color_change {
+    from { color: #CCC; }
+    to { color: white; }
+  }
+  @-ms-keyframes color_change {
+    from { color: #CCC; }
+    to { color: white; }
+  }
+  @-o-keyframes color_change {
+    from { color: #CCC; }
+    to { color: white; }
+  }
+  @keyframes color_change {
+    from { color: #CCC; }
+    to { color: white; }
+  }
+
+  .blinky {
+    -webkit-animation: color_change 1s infinite alternate;
+    -moz-animation: color_change 1s infinite alternate;
+    -ms-animation: color_change 1s infinite alternate;
+    -o-animation: color_change 1s infinite alternate;
+    animation: color_change 1s infinite alternate;
+  }
+
+  main {
+    font-size: 20px;
+  }
+
+  @media only screen and (max-width: 800px) {
+    .data-dump-cover {
+      text-align: center;
+      width: 100%;
+    }
+  }
+</style>
+
+<p>You’ve probably already heard the biggest news in the literary world since [REDACTED] killed Dumbledore, but I finished writing my first book – a <a href="./datadump.html">tech book aimed at people who are just getting started in their software development career</a>!</p>
+
+<p>Are you an aspiring author who “has a book inside them”, as people are wont to say, but you just don’t know where to start? Have you wondered how you can get your book from an idea all the way to a <strong>published international best-seller</strong>?</p>
+
+<p>Well gather ‘round if you want to find out <strong>how to write a tech book</strong> – I’ll let ye in on some of the <em>tips o’ the trade</em> that I picked up while writing mine.</p>
+
+<h2 id="writing-a-draft">Writing a Draft</h2>
+
+<p>I started off writing my book in good ol’ <a href="https://docs.google.com">Google Docs</a>.</p>
+
+<p>Not only is it free, but it made it <em>very easy</em> to share early copies with friends/enemies, allowing me to get their feedback.</p>
+
+<p>Plus, the document outline on the side made it easy to jump around to different sections of the book, which I did a <em>ton</em> of while organizing and editing everything a hundred times.</p>
+
+<h3 id="driving-away-distractions">Driving Away Distractions</h3>
+
+<p>I used a Chrome extension called <a href="https://chrome.google.com/webstore/detail/distraction-free-mode-%E2%80%94-g/blmejkgbnceohgjfnoiegdlbfkmpkeha">Distraction Free Mode</a> to improve my focus while writing. It helped me concentrate on writing, instead of being distracted every ten seconds by something else. This ended up helping a bunch!</p>
+
+<p>To block out other distractions, I oft listened to my <a href="/playlist">Special Book Writin’ Music Playlist</a>. Perhaps because it doesn’t have lyrics, it didn’t distract me from my work, but instead helped me <em>focus up</em> on the work of making a book from scratch.</p>
+
+<h2 id="prepping-for-publishing">Prepping for Publishing</h2>
+
+<p>After <a href="/blog/set-sail-for-leanpub">dabbling with a publisher or two</a>, <a href="./set-sail-for-leanpub">I made the executive decision to self-publish</a> with <a href="https://leanpub.com/">Leanpub</a>.</p>
+
+<p>Leanpub uses its own flavor of Markdown for formatting. I found this handy <a href="https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607">Docs to Markdown add-on</a> which automatically converts Google Docs to markdown.</p>
+
+<p>It did a pretty good job of transforming my Google Docs to Markdown, saving me a lot of time. I still had to manually fix a ton of footnotes, and a few weird non-UTF8 characters, but overall it worked bueno, and was <em>way</em> faster than trying to convert all the formatting by hand.</p>
+
+<h2 id="designing-the-book-cover">Designing the Book Cover</h2>
+
+<p>After trying to do this meself by messing around in <a href="https://www.canva.com/">Canva</a> for a bit, I figured this was a job best left to the experts.</p>
+
+<p>I sought out famed Asheville designer <a href="https://www.alexminkindesign.com/">Alex Minkin</a> to see if he was down to help design an award-winning book cover. After a few phone calls and emails, he whipped me up a great cover.</p>
+
+<p>It wasn’t even close to anything I’d pictured; instead, it was better.</p>
+
+<p>That worked perfectly for the ebook cover. For the paperback, though, I had to call in a specialist, since it has to be certain dimensions (to fit the size of the book). After consulting with such search engines as Ask Jeeves and Bing, I beseeched <a href="https://www.fiverr.com/">Fiverr</a> for help with this. Within a couple days, I had the finished book cover files!</p>
+
+<h2 id="publishing-and-selling-">Publishing and Selling 🤑</h2>
+
+<h3 id="publishing-the-ebook">Publishing the ebook</h3>
+
+<p>By now, I basically had a <strong>real, live, honest-to-goodness, scratch-made book</strong>. But how could I sell it? What were the final steps needed to get this across the finish line, and into the hands of the yearning public?</p>
+
+<p>For digital copies (ebooks), I used <a href="https://leanpub.com/datadump/">Leanpub</a> and <a href="https://peckyeah.gumroad.com/l/datadump">Gumroad</a>. Getting everything set up on these sites was easy peasy, and within the day people were able to buy an ebook copy of <a href="./datadump.html">Data Dump</a>.</p>
+
+<p>I wiped away the tears of joy that blurred my eyes, since I still had one more hurdle to overcome; <a href="data-dump-now-in-paperback">getting a physical copy of the book out into the world</a>.</p>
+
+<h3 id="publishing-a-hard-copy-book">Publishing a hard copy book</h3>
+
+<p>Focusing my chi, I fired up my dialup internet modem and began the minutes-long process of loading up <a href="https://kdp.amazon.com/en_US/bookshelf">Amazon Kindle Direct Publishing</a>. Not only did this give me yet another place to sell ebook copies of “Data Dump”, it also opened the door to publishing a paperback version!</p>
+
+<p>There was a pretty easy, intuitive setup process for this, including a step where I uploaded the custom-made paperback cover that I’d gotten from Fiverr.</p>
+
+<p>Once you get everything set up, you can order a free test copy, just to make sure everything looks right.</p>
+
+<p>I spent a night or two <strong>perusing the paperback</strong>, finding a bunch of small mistakes (it was a lot easier to find these in a hard copy than the ebook I’d previously proofread!).</p>
+
+<p>After fixing everything up in Leanpub, I updated the ebook and hard copy versions, and popped the book into Amazon’s marketplace. At long last, I had made the big time. I began dabbing in celebration, and haven’t stopped since.</p>
+
+<div style="text-align: center;width: 100%">
+  <a href="https://www.amazon.com/Data-Dump-Experienced-Software-Professionals/dp/B09MC4WY5M/" target="_blank" class="get-the-book blinky">
+    Buy the Paperback
+  </a>
+
+  <a href="https://peckyeah.gumroad.com/l/datadump/peckyeah25" target="_blank" class="get-the-book blinky">
+    Buy the eBook
+  </a>
+</div>
+
+<p>Guests of PeckYeah can <strong>save 25%</strong> on the eBook by using the code “peckyeah25” to <a href="https://peckyeah.gumroad.com/l/datadump/peckyeah25">buy the book here</a>.</p>
+
+  </div>
+
+  <div class="PageNavigation">
+    
+      <a class="prev" href="/blog/data-dump-now-in-paperback" title="Data Dump: Now in Paperback! ">&laquo; Data Dump: Now in Paperback! </a>
+    
+
+    
+  </div><a class="u-url" href="/blog/how-to-write-a-tech-book" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">PeckYeah</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">PeckYeah</li><li><a class="u-email" href="mailto:joe@peckyeah.com">joe@peckyeah.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/fatcatt316"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">fatcatt316</span></a></li><li><a href="https://www.twitter.com/fatcatt316"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">fatcatt316</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Joe Peck&#39;s trials and tribulations as he wanders through the Internet</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

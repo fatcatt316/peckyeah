@@ -14,4 +14,5 @@ end
 
 gem "stringex", "~> 2.8", require: false
 
+# Had to add due to bug with Ruby 3 and Jekyll: https://github.com/jekyll/jekyll/issues/8523
 gem "webrick", "~> 1.8"
