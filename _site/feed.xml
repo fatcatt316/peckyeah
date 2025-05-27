@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-10-02T16:52:38-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">PeckYeah</title><subtitle>Joe Peck&apos;s trials and tribulations as he wanders through the Internet</subtitle><entry><title type="html">How to Write a Tech Book</title><link href="http://localhost:4000/blog/how-to-write-a-tech-book" rel="alternate" type="text/html" title="How to Write a Tech Book" /><published>2023-10-02T12:31:55-04:00</published><updated>2023-10-02T12:31:55-04:00</updated><id>http://localhost:4000/blog/how-to-write-a-tech-book</id><content type="html" xml:base="http://localhost:4000/blog/how-to-write-a-tech-book">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-26T21:11:16-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">PeckYeah</title><subtitle>Joe Peck&apos;s trials and tribulations as he wanders through the Internet</subtitle><entry><title type="html">How to Write a Tech Book</title><link href="http://localhost:4000/blog/how-to-write-a-tech-book" rel="alternate" type="text/html" title="How to Write a Tech Book" /><published>2023-10-02T12:31:55-04:00</published><updated>2023-10-02T12:31:55-04:00</updated><id>http://localhost:4000/blog/how-to-write-a-tech-book</id><content type="html" xml:base="http://localhost:4000/blog/how-to-write-a-tech-book"><![CDATA[<style>
   .data-dump-cover {
     float: left;
     margin: 0 20px 20px 0;
@@ -60,79 +60,79 @@
       width: 100%;
     }
   }
-&lt;/style&gt;
+</style>
 
-&lt;p&gt;You’ve probably already heard the biggest news in the literary world since [REDACTED] killed Dumbledore, but I finished writing my first book – a &lt;a href=&quot;./datadump.html&quot;&gt;tech book aimed at people who are just getting started in their software development career&lt;/a&gt;!&lt;/p&gt;
+<p>You’ve probably already heard the biggest news in the literary world since [REDACTED] killed Dumbledore, but I finished writing my first book – a <a href="./datadump.html">tech book aimed at people who are just getting started in their software development career</a>!</p>
 
-&lt;p&gt;Are you an aspiring author who “has a book inside them”, as people are wont to say, but you just don’t know where to start? Have you wondered how you can get your book from an idea all the way to a &lt;strong&gt;published international best-seller&lt;/strong&gt;?&lt;/p&gt;
+<p>Are you an aspiring author who “has a book inside them”, as people are wont to say, but you just don’t know where to start? Have you wondered how you can get your book from an idea all the way to a <strong>published international best-seller</strong>?</p>
 
-&lt;p&gt;Well gather ‘round if you want to find out &lt;strong&gt;how to write a tech book&lt;/strong&gt; – I’ll let ye in on some of the &lt;em&gt;tips o’ the trade&lt;/em&gt; that I picked up while writing mine.&lt;/p&gt;
+<p>Well gather ‘round if you want to find out <strong>how to write a tech book</strong> – I’ll let ye in on some of the <em>tips o’ the trade</em> that I picked up while writing mine.</p>
 
-&lt;h2 id=&quot;writing-a-draft&quot;&gt;Writing a Draft&lt;/h2&gt;
+<h2 id="writing-a-draft">Writing a Draft</h2>
 
-&lt;p&gt;I started off writing my book in good ol’ &lt;a href=&quot;https://docs.google.com&quot;&gt;Google Docs&lt;/a&gt;.&lt;/p&gt;
+<p>I started off writing my book in good ol’ <a href="https://docs.google.com">Google Docs</a>.</p>
 
-&lt;p&gt;Not only is it free, but it made it &lt;em&gt;very easy&lt;/em&gt; to share early copies with friends/enemies, allowing me to get their feedback.&lt;/p&gt;
+<p>Not only is it free, but it made it <em>very easy</em> to share early copies with friends/enemies, allowing me to get their feedback.</p>
 
-&lt;p&gt;Plus, the document outline on the side made it easy to jump around to different sections of the book, which I did a &lt;em&gt;ton&lt;/em&gt; of while organizing and editing everything a hundred times.&lt;/p&gt;
+<p>Plus, the document outline on the side made it easy to jump around to different sections of the book, which I did a <em>ton</em> of while organizing and editing everything a hundred times.</p>
 
-&lt;h3 id=&quot;driving-away-distractions&quot;&gt;Driving Away Distractions&lt;/h3&gt;
+<h3 id="driving-away-distractions">Driving Away Distractions</h3>
 
-&lt;p&gt;I used a Chrome extension called &lt;a href=&quot;https://chrome.google.com/webstore/detail/distraction-free-mode-%E2%80%94-g/blmejkgbnceohgjfnoiegdlbfkmpkeha&quot;&gt;Distraction Free Mode&lt;/a&gt; to improve my focus while writing. It helped me concentrate on writing, instead of being distracted every ten seconds by something else. This ended up helping a bunch!&lt;/p&gt;
+<p>I used a Chrome extension called <a href="https://chrome.google.com/webstore/detail/distraction-free-mode-%E2%80%94-g/blmejkgbnceohgjfnoiegdlbfkmpkeha">Distraction Free Mode</a> to improve my focus while writing. It helped me concentrate on writing, instead of being distracted every ten seconds by something else. This ended up helping a bunch!</p>
 
-&lt;p&gt;To block out other distractions, I oft listened to my &lt;a href=&quot;/playlist&quot;&gt;Special Book Writin’ Music Playlist&lt;/a&gt;. Perhaps because it doesn’t have lyrics, it didn’t distract me from my work, but instead helped me &lt;em&gt;focus up&lt;/em&gt; on the work of making a book from scratch.&lt;/p&gt;
+<p>To block out other distractions, I oft listened to my <a href="/playlist">Special Book Writin’ Music Playlist</a>. Perhaps because it doesn’t have lyrics, it didn’t distract me from my work, but instead helped me <em>focus up</em> on the work of making a book from scratch.</p>
 
-&lt;h2 id=&quot;prepping-for-publishing&quot;&gt;Prepping for Publishing&lt;/h2&gt;
+<h2 id="prepping-for-publishing">Prepping for Publishing</h2>
 
-&lt;p&gt;After &lt;a href=&quot;/blog/set-sail-for-leanpub&quot;&gt;dabbling with a publisher or two&lt;/a&gt;, &lt;a href=&quot;./set-sail-for-leanpub&quot;&gt;I made the executive decision to self-publish&lt;/a&gt; with &lt;a href=&quot;https://leanpub.com/&quot;&gt;Leanpub&lt;/a&gt;.&lt;/p&gt;
+<p>After <a href="/blog/set-sail-for-leanpub">dabbling with a publisher or two</a>, <a href="./set-sail-for-leanpub">I made the executive decision to self-publish</a> with <a href="https://leanpub.com/">Leanpub</a>.</p>
 
-&lt;p&gt;Leanpub uses its own flavor of Markdown for formatting. I found this handy &lt;a href=&quot;https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607&quot;&gt;Docs to Markdown add-on&lt;/a&gt; which automatically converts Google Docs to markdown.&lt;/p&gt;
+<p>Leanpub uses its own flavor of Markdown for formatting. I found this handy <a href="https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607">Docs to Markdown add-on</a> which automatically converts Google Docs to markdown.</p>
 
-&lt;p&gt;It did a pretty good job of transforming my Google Docs to Markdown, saving me a lot of time. I still had to manually fix a ton of footnotes, and a few weird non-UTF8 characters, but overall it worked bueno, and was &lt;em&gt;way&lt;/em&gt; faster than trying to convert all the formatting by hand.&lt;/p&gt;
+<p>It did a pretty good job of transforming my Google Docs to Markdown, saving me a lot of time. I still had to manually fix a ton of footnotes, and a few weird non-UTF8 characters, but overall it worked bueno, and was <em>way</em> faster than trying to convert all the formatting by hand.</p>
 
-&lt;h2 id=&quot;designing-the-book-cover&quot;&gt;Designing the Book Cover&lt;/h2&gt;
+<h2 id="designing-the-book-cover">Designing the Book Cover</h2>
 
-&lt;p&gt;After trying to do this meself by messing around in &lt;a href=&quot;https://www.canva.com/&quot;&gt;Canva&lt;/a&gt; for a bit, I figured this was a job best left to the experts.&lt;/p&gt;
+<p>After trying to do this meself by messing around in <a href="https://www.canva.com/">Canva</a> for a bit, I figured this was a job best left to the experts.</p>
 
-&lt;p&gt;I sought out famed Asheville designer &lt;a href=&quot;https://www.alexminkindesign.com/&quot;&gt;Alex Minkin&lt;/a&gt; to see if he was down to help design an award-winning book cover. After a few phone calls and emails, he whipped me up a great cover.&lt;/p&gt;
+<p>I sought out famed Asheville designer <a href="https://www.alexminkindesign.com/">Alex Minkin</a> to see if he was down to help design an award-winning book cover. After a few phone calls and emails, he whipped me up a great cover.</p>
 
-&lt;p&gt;It wasn’t even close to anything I’d pictured; instead, it was better.&lt;/p&gt;
+<p>It wasn’t even close to anything I’d pictured; instead, it was better.</p>
 
-&lt;p&gt;That worked perfectly for the ebook cover. For the paperback, though, I had to call in a specialist, since it has to be certain dimensions (to fit the size of the book). After consulting with such search engines as Ask Jeeves and Bing, I beseeched &lt;a href=&quot;https://www.fiverr.com/&quot;&gt;Fiverr&lt;/a&gt; for help with this. Within a couple days, I had the finished book cover files!&lt;/p&gt;
+<p>That worked perfectly for the ebook cover. For the paperback, though, I had to call in a specialist, since it has to be certain dimensions (to fit the size of the book). After consulting with such search engines as Ask Jeeves and Bing, I beseeched <a href="https://www.fiverr.com/">Fiverr</a> for help with this. Within a couple days, I had the finished book cover files!</p>
 
-&lt;h2 id=&quot;publishing-and-selling-&quot;&gt;Publishing and Selling 🤑&lt;/h2&gt;
+<h2 id="publishing-and-selling-">Publishing and Selling 🤑</h2>
 
-&lt;h3 id=&quot;publishing-the-ebook&quot;&gt;Publishing the ebook&lt;/h3&gt;
+<h3 id="publishing-the-ebook">Publishing the ebook</h3>
 
-&lt;p&gt;By now, I basically had a &lt;strong&gt;real, live, honest-to-goodness, scratch-made book&lt;/strong&gt;. But how could I sell it? What were the final steps needed to get this across the finish line, and into the hands of the yearning public?&lt;/p&gt;
+<p>By now, I basically had a <strong>real, live, honest-to-goodness, scratch-made book</strong>. But how could I sell it? What were the final steps needed to get this across the finish line, and into the hands of the yearning public?</p>
 
-&lt;p&gt;For digital copies (ebooks), I used &lt;a href=&quot;https://leanpub.com/datadump/&quot;&gt;Leanpub&lt;/a&gt; and &lt;a href=&quot;https://peckyeah.gumroad.com/l/datadump&quot;&gt;Gumroad&lt;/a&gt;. Getting everything set up on these sites was easy peasy, and within the day people were able to buy an ebook copy of &lt;a href=&quot;./datadump.html&quot;&gt;Data Dump&lt;/a&gt;.&lt;/p&gt;
+<p>For digital copies (ebooks), I used <a href="https://leanpub.com/datadump/">Leanpub</a> and <a href="https://peckyeah.gumroad.com/l/datadump">Gumroad</a>. Getting everything set up on these sites was easy peasy, and within the day people were able to buy an ebook copy of <a href="./datadump.html">Data Dump</a>.</p>
 
-&lt;p&gt;I wiped away the tears of joy that blurred my eyes, since I still had one more hurdle to overcome; &lt;a href=&quot;data-dump-now-in-paperback&quot;&gt;getting a physical copy of the book out into the world&lt;/a&gt;.&lt;/p&gt;
+<p>I wiped away the tears of joy that blurred my eyes, since I still had one more hurdle to overcome; <a href="data-dump-now-in-paperback">getting a physical copy of the book out into the world</a>.</p>
 
-&lt;h3 id=&quot;publishing-a-hard-copy-book&quot;&gt;Publishing a hard copy book&lt;/h3&gt;
+<h3 id="publishing-a-hard-copy-book">Publishing a hard copy book</h3>
 
-&lt;p&gt;Focusing my chi, I fired up my dialup internet modem and began the minutes-long process of loading up &lt;a href=&quot;https://kdp.amazon.com/en_US/bookshelf&quot;&gt;Amazon Kindle Direct Publishing&lt;/a&gt;. Not only did this give me yet another place to sell ebook copies of “Data Dump”, it also opened the door to publishing a paperback version!&lt;/p&gt;
+<p>Focusing my chi, I fired up my dialup internet modem and began the minutes-long process of loading up <a href="https://kdp.amazon.com/en_US/bookshelf">Amazon Kindle Direct Publishing</a>. Not only did this give me yet another place to sell ebook copies of “Data Dump”, it also opened the door to publishing a paperback version!</p>
 
-&lt;p&gt;There was a pretty easy, intuitive setup process for this, including a step where I uploaded the custom-made paperback cover that I’d gotten from Fiverr.&lt;/p&gt;
+<p>There was a pretty easy, intuitive setup process for this, including a step where I uploaded the custom-made paperback cover that I’d gotten from Fiverr.</p>
 
-&lt;p&gt;Once you get everything set up, you can order a free test copy, just to make sure everything looks right.&lt;/p&gt;
+<p>Once you get everything set up, you can order a free test copy, just to make sure everything looks right.</p>
 
-&lt;p&gt;I spent a night or two &lt;strong&gt;perusing the paperback&lt;/strong&gt;, finding a bunch of small mistakes (it was a lot easier to find these in a hard copy than the ebook I’d previously proofread!).&lt;/p&gt;
+<p>I spent a night or two <strong>perusing the paperback</strong>, finding a bunch of small mistakes (it was a lot easier to find these in a hard copy than the ebook I’d previously proofread!).</p>
 
-&lt;p&gt;After fixing everything up in Leanpub, I updated the ebook and hard copy versions, and popped the book into Amazon’s marketplace. At long last, I had made the big time. I began dabbing in celebration, and haven’t stopped since.&lt;/p&gt;
+<p>After fixing everything up in Leanpub, I updated the ebook and hard copy versions, and popped the book into Amazon’s marketplace. At long last, I had made the big time. I began dabbing in celebration, and haven’t stopped since.</p>
 
-&lt;div style=&quot;text-align: center;width: 100%&quot;&gt;
-  &lt;a href=&quot;https://www.amazon.com/Data-Dump-Experienced-Software-Professionals/dp/B09MC4WY5M/&quot; target=&quot;_blank&quot; class=&quot;get-the-book blinky&quot;&gt;
+<div style="text-align: center;width: 100%">
+  <a href="https://www.amazon.com/Data-Dump-Experienced-Software-Professionals/dp/B09MC4WY5M/" target="_blank" class="get-the-book blinky">
     Buy the Paperback
-  &lt;/a&gt;
+  </a>
 
-  &lt;a href=&quot;https://peckyeah.gumroad.com/l/datadump/peckyeah25&quot; target=&quot;_blank&quot; class=&quot;get-the-book blinky&quot;&gt;
+  <a href="https://peckyeah.gumroad.com/l/datadump/peckyeah25" target="_blank" class="get-the-book blinky">
     Buy the eBook
-  &lt;/a&gt;
-&lt;/div&gt;
+  </a>
+</div>
 
-&lt;p&gt;Guests of PeckYeah can &lt;strong&gt;save 25%&lt;/strong&gt; on the eBook by using the code “peckyeah25” to &lt;a href=&quot;https://peckyeah.gumroad.com/l/datadump/peckyeah25&quot;&gt;buy the book here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Data Dump: Now in Paperback!</title><link href="http://localhost:4000/blog/data-dump-now-in-paperback" rel="alternate" type="text/html" title="Data Dump: Now in Paperback!" /><published>2021-12-06T21:04:20-05:00</published><updated>2021-12-06T21:04:20-05:00</updated><id>http://localhost:4000/blog/data-dump-now-in-paperback</id><content type="html" xml:base="http://localhost:4000/blog/data-dump-now-in-paperback">&lt;style&gt;
+<p>Guests of PeckYeah can <strong>save 25%</strong> on the eBook by using the code “peckyeah25” to <a href="https://peckyeah.gumroad.com/l/datadump/peckyeah25">buy the book here</a>.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Data Dump: Now in Paperback!</title><link href="http://localhost:4000/blog/data-dump-now-in-paperback" rel="alternate" type="text/html" title="Data Dump: Now in Paperback!" /><published>2021-12-06T21:04:20-05:00</published><updated>2021-12-06T21:04:20-05:00</updated><id>http://localhost:4000/blog/data-dump-now-in-paperback</id><content type="html" xml:base="http://localhost:4000/blog/data-dump-now-in-paperback"><![CDATA[<style>
   .get-the-book {
     border: 3px solid green;
     border-radius: 15px;
@@ -178,43 +178,43 @@
     -o-animation: color_change 1s infinite alternate;
     animation: color_change 1s infinite alternate;
   }
-&lt;/style&gt;
+</style>
 
-&lt;p&gt;As great as it was to finally get the &lt;a href=&quot;/blog/the-book-is-finished&quot;&gt;Data Dump book done and available as an ebook&lt;/a&gt;, it didn’t quite feel like The Real Thing™. Heck yeah, it was great to finally have this software development book published and available to the world, but it wasn’t tangible.&lt;/p&gt;
+<p>As great as it was to finally get the <a href="/blog/the-book-is-finished">Data Dump book done and available as an ebook</a>, it didn’t quite feel like The Real Thing™. Heck yeah, it was great to finally have this software development book published and available to the world, but it wasn’t tangible.</p>
 
-&lt;p&gt;I had to ask myself, WWGD (What Would &lt;a href=&quot;https://en.wikipedia.org/wiki/Johannes_Gutenberg#Printing_press&quot;&gt;Gutenberg&lt;/a&gt; Do)? He’d print the dang book, that’s what! I slammed my fist onto my desk, resolute in my goal of printing this book. A portrait of Abraham Lincoln looked on, aloof and judgemental.&lt;/p&gt;
+<p>I had to ask myself, WWGD (What Would <a href="https://en.wikipedia.org/wiki/Johannes_Gutenberg#Printing_press">Gutenberg</a> Do)? He’d print the dang book, that’s what! I slammed my fist onto my desk, resolute in my goal of printing this book. A portrait of Abraham Lincoln looked on, aloof and judgemental.</p>
 
-&lt;p&gt;&lt;a href=&quot;/blog/designing-the-book-cover&quot;&gt;I mentioned awhile back that I’d started working with a book cover designer&lt;/a&gt;. We’d ended up with a book cover that worked great for digital books, but the design needed a bit more work before it was ready to be used as a paperback cover design, partially because paperback book covers have to be sized according to how wide the book is (how many pages long it is).&lt;/p&gt;
+<p><a href="/blog/designing-the-book-cover">I mentioned awhile back that I’d started working with a book cover designer</a>. We’d ended up with a book cover that worked great for digital books, but the design needed a bit more work before it was ready to be used as a paperback cover design, partially because paperback book covers have to be sized according to how wide the book is (how many pages long it is).</p>
 
-&lt;p&gt;During a recent family road trip to Florida, I took my wife’s advice and tried out Fiverr. I ended up finding &lt;a href=&quot;https://www.fiverr.com/rony8666&quot;&gt;a professional graphic designer who went by the name of Rony&lt;/a&gt;. After sending him the design files and talking with him a bit, I sent him the order.&lt;/p&gt;
+<p>During a recent family road trip to Florida, I took my wife’s advice and tried out Fiverr. I ended up finding <a href="https://www.fiverr.com/rony8666">a professional graphic designer who went by the name of Rony</a>. After sending him the design files and talking with him a bit, I sent him the order.</p>
 
-&lt;p&gt;He was great to work with – super responsive, thorough, and professional. After a little bit of back-and-forth designs, we landed on the final one.&lt;/p&gt;
+<p>He was great to work with – super responsive, thorough, and professional. After a little bit of back-and-forth designs, we landed on the final one.</p>
 
-&lt;!-- &lt;div class=&quot;parrot-de-fiesta&quot;&gt; --&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/3d-data-dump-book-cover-front.jpg&quot; alt=&quot;3D Data Dump book cover&quot; title=&quot;Oh dang, a 3D book cover!&quot; /&gt;
-&lt;!-- &lt;/div&gt; --&gt;&lt;/p&gt;
+<!-- <div class="parrot-de-fiesta"> -->
+<p><img src="/assets/images/3d-data-dump-book-cover-front.jpg" alt="3D Data Dump book cover" title="Oh dang, a 3D book cover!" />
+<!-- </div> --></p>
 
-&lt;p&gt;After that, it was on to KDP (&lt;a href=&quot;https://kdp.amazon.com&quot;&gt;Amazon Kindle Direct Publishing&lt;/a&gt;), where I navigated a few forms, uploaded my print-ready PDF courtesy of &lt;a href=&quot;https://leanpub.com/datadump/&quot;&gt;LeanPub&lt;/a&gt;, and ordered a test paperback to mi casa.&lt;/p&gt;
+<p>After that, it was on to KDP (<a href="https://kdp.amazon.com">Amazon Kindle Direct Publishing</a>), where I navigated a few forms, uploaded my print-ready PDF courtesy of <a href="https://leanpub.com/datadump/">LeanPub</a>, and ordered a test paperback to mi casa.</p>
 
-&lt;p&gt;A day or so after we hosted Thanksgiving, a mysterious book-shaped package arrived. Eager hands a-tremblin’, I tore open the package, and held the world’s first paperback copy (rare collector’s edition) of &lt;em&gt;Data Dump&lt;/em&gt;. Finally, a real book.&lt;/p&gt;
+<p>A day or so after we hosted Thanksgiving, a mysterious book-shaped package arrived. Eager hands a-tremblin’, I tore open the package, and held the world’s first paperback copy (rare collector’s edition) of <em>Data Dump</em>. Finally, a real book.</p>
 
-&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Data-Dump-Experienced-Software-Professionals/dp/B09MC4WY5M/&quot;&gt;
-&lt;img src=&quot;/assets/images/data-dump-paperback.png&quot; alt=&quot;Data Dump paperback really exists&quot; title=&quot;World&apos;s first paperback copy of Data Dump (Collector&apos;s Edition)&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+<p><a href="https://www.amazon.com/Data-Dump-Experienced-Software-Professionals/dp/B09MC4WY5M/">
+<img src="/assets/images/data-dump-paperback.png" alt="Data Dump paperback really exists" title="World's first paperback copy of Data Dump (Collector's Edition)" />
+</a></p>
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/datadump.html&quot;&gt;Head over here if you’d like to read more about the book&lt;/a&gt;.&lt;/p&gt;
+<p><a href="http://localhost:4000/datadump.html">Head over here if you’d like to read more about the book</a>.</p>
 
-&lt;p&gt;If you’re interested in a paperback version of this &lt;a href=&quot;https://www.amazon.com/Data-Dump-Experienced-Software-Professionals/dp/B09MC4WY5M/&quot;&gt;book aimed at people just starting their software development journey&lt;/a&gt;, please check it out. And if you’d rather get the ebook version, &lt;a href=&quot;https://peckyeah.gumroad.com/l/datadump/peckyeah25&quot;&gt;that’s available here&lt;/a&gt; (with a &lt;strong&gt;25% discount&lt;/strong&gt; for PeckYeah readers!).&lt;/p&gt;
+<p>If you’re interested in a paperback version of this <a href="https://www.amazon.com/Data-Dump-Experienced-Software-Professionals/dp/B09MC4WY5M/">book aimed at people just starting their software development journey</a>, please check it out. And if you’d rather get the ebook version, <a href="https://peckyeah.gumroad.com/l/datadump/peckyeah25">that’s available here</a> (with a <strong>25% discount</strong> for PeckYeah readers!).</p>
 
-&lt;div style=&quot;text-align: center;width: 100%&quot;&gt;
-  &lt;a href=&quot;https://www.amazon.com/Data-Dump-Experienced-Software-Professionals/dp/B09MC4WY5M/&quot; target=&quot;_blank&quot; class=&quot;get-the-book blinky&quot;&gt;
+<div style="text-align: center;width: 100%">
+  <a href="https://www.amazon.com/Data-Dump-Experienced-Software-Professionals/dp/B09MC4WY5M/" target="_blank" class="get-the-book blinky">
     Buy the Paperback
-  &lt;/a&gt;
+  </a>
 
-  &lt;a href=&quot;https://peckyeah.gumroad.com/l/datadump/peckyeah25&quot; target=&quot;_blank&quot; class=&quot;get-the-book blinky&quot;&gt;
+  <a href="https://peckyeah.gumroad.com/l/datadump/peckyeah25" target="_blank" class="get-the-book blinky">
     Buy the eBook
-  &lt;/a&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">The Book is Finished!</title><link href="http://localhost:4000/blog/the-book-is-finished" rel="alternate" type="text/html" title="The Book is Finished!" /><published>2021-10-18T20:53:49-04:00</published><updated>2021-10-18T20:53:49-04:00</updated><id>http://localhost:4000/blog/the-book-is-finished</id><content type="html" xml:base="http://localhost:4000/blog/the-book-is-finished">&lt;style&gt;
+  </a>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">The Book is Finished!</title><link href="http://localhost:4000/blog/the-book-is-finished" rel="alternate" type="text/html" title="The Book is Finished!" /><published>2021-10-18T20:53:49-04:00</published><updated>2021-10-18T20:53:49-04:00</updated><id>http://localhost:4000/blog/the-book-is-finished</id><content type="html" xml:base="http://localhost:4000/blog/the-book-is-finished"><![CDATA[<style>
   .parrot-de-fiesta {
     text-align: center;
     margin-top: -15px;
@@ -278,118 +278,118 @@
       width: 100%;
     }
   }
-&lt;/style&gt;
+</style>
 
-&lt;div class=&quot;data-dump-cover&quot;&gt;
-  &lt;a href=&quot;https://peckyeah.gumroad.com/l/datadump/peckyeah25&quot;&gt;
-    &lt;img src=&quot;/assets/images/data-dump-cover.jpg&quot; alt=&quot;Book cover, a marvelous work of art&quot; title=&quot;Stunning book cover art&quot; /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+<div class="data-dump-cover">
+  <a href="https://peckyeah.gumroad.com/l/datadump/peckyeah25">
+    <img src="/assets/images/data-dump-cover.jpg" alt="Book cover, a marvelous work of art" title="Stunning book cover art" />
+  </a>
+</div>
 
-&lt;div style=&quot;text-align: center;width: 100%&quot;&gt;
-  &lt;a href=&quot;https://peckyeah.gumroad.com/l/datadump/peckyeah25&quot; target=&quot;_blank&quot; class=&quot;get-the-book blinky&quot;&gt;
+<div style="text-align: center;width: 100%">
+  <a href="https://peckyeah.gumroad.com/l/datadump/peckyeah25" target="_blank" class="get-the-book blinky">
     Buy the Book
-  &lt;/a&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+  </a>
+</div>
+<p><br /></p>
 
-&lt;p&gt;A few years ago, an &lt;a href=&quot;https://www.allthingsopen.org/&quot;&gt;All Things Open&lt;/a&gt; talk entitled “How to Write Your First Tech Book” gave me the &lt;strong&gt;gumption&lt;/strong&gt; to write the kind of book that I would’ve wanted to have when I first got into programming.&lt;/p&gt;
+<p>A few years ago, an <a href="https://www.allthingsopen.org/">All Things Open</a> talk entitled “How to Write Your First Tech Book” gave me the <strong>gumption</strong> to write the kind of book that I would’ve wanted to have when I first got into programming.</p>
 
-&lt;p&gt;After tons of emails, interviews, coffee, writing, coffee, reviews, edits, coffee, and working with a cover designer, &lt;strong&gt;&lt;em&gt;Data Dump: Insider Advice from Software Professionals&lt;/em&gt;&lt;/strong&gt;, the book, is done and available!&lt;/p&gt;
-&lt;div class=&quot;parrot-de-fiesta&quot;&gt;
-  &lt;img src=&quot;/assets/images/party-parrot.gif&quot; alt=&quot;Party parrot&quot; title=&quot;There goes that crazy parrot&quot; /&gt;
-&lt;/div&gt;
+<p>After tons of emails, interviews, coffee, writing, coffee, reviews, edits, coffee, and working with a cover designer, <strong><em>Data Dump: Insider Advice from Software Professionals</em></strong>, the book, is done and available!</p>
+<div class="parrot-de-fiesta">
+  <img src="/assets/images/party-parrot.gif" alt="Party parrot" title="There goes that crazy parrot" />
+</div>
 
-&lt;p&gt;When I first started writing the book, a veteran tech author gave me the sage advice, “Just plan on it taking 2x longer to complete than you expect!” And boy was he right.&lt;/p&gt;
+<p>When I first started writing the book, a veteran tech author gave me the sage advice, “Just plan on it taking 2x longer to complete than you expect!” And boy was he right.</p>
 
-&lt;p&gt;Thanks a &lt;strong&gt;&lt;em&gt;ton&lt;/em&gt;&lt;/strong&gt; to everyone who took part in the interviews, and everyone who helped edit the book. It’s finally done! If you have any questions or feedback about the book, please reach out by email or &lt;a href=&quot;https://twitter.com/fatcatt316&quot;&gt;on Twitter&lt;/a&gt;.&lt;/p&gt;
+<p>Thanks a <strong><em>ton</em></strong> to everyone who took part in the interviews, and everyone who helped edit the book. It’s finally done! If you have any questions or feedback about the book, please reach out by email or <a href="https://twitter.com/fatcatt316">on Twitter</a>.</p>
 
-&lt;p&gt;Por favor &lt;a href=&quot;http://localhost:4000/datadump.html&quot;&gt;head over here to read more about the book&lt;/a&gt;! Or, you can just &lt;a href=&quot;https://peckyeah.gumroad.com/l/datadump/peckyeah25&quot;&gt;buy the book here&lt;/a&gt; and use the code &lt;strong&gt;“peckyeah25”&lt;/strong&gt; to save 25%.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Designing the Book Cover</title><link href="http://localhost:4000/blog/designing-the-book-cover" rel="alternate" type="text/html" title="Designing the Book Cover" /><published>2021-06-05T14:46:47-04:00</published><updated>2021-06-05T14:46:47-04:00</updated><id>http://localhost:4000/blog/designing-the-book-cover</id><content type="html" xml:base="http://localhost:4000/blog/designing-the-book-cover">&lt;p&gt;Heck yeah, we’re moving ever closer to the actual release of this book!
-🙌&lt;/p&gt;
+<p>Por favor <a href="http://localhost:4000/datadump.html">head over here to read more about the book</a>! Or, you can just <a href="https://peckyeah.gumroad.com/l/datadump/peckyeah25">buy the book here</a> and use the code <strong>“peckyeah25”</strong> to save 25%.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Designing the Book Cover</title><link href="http://localhost:4000/blog/designing-the-book-cover" rel="alternate" type="text/html" title="Designing the Book Cover" /><published>2021-06-05T14:46:47-04:00</published><updated>2021-06-05T14:46:47-04:00</updated><id>http://localhost:4000/blog/designing-the-book-cover</id><content type="html" xml:base="http://localhost:4000/blog/designing-the-book-cover"><![CDATA[<p>Heck yeah, we’re moving ever closer to the actual release of this book!
+🙌</p>
 
-&lt;p&gt;Since I finished &lt;a href=&quot;/blog/leanpub-mission-accomplished&quot;&gt;getting the book into Leanpub and fixing the formatting&lt;/a&gt;, I’ve been busy with some other book-related things, in the few hours I can squeeze out between work and family.&lt;/p&gt;
+<p>Since I finished <a href="/blog/leanpub-mission-accomplished">getting the book into Leanpub and fixing the formatting</a>, I’ve been busy with some other book-related things, in the few hours I can squeeze out between work and family.</p>
 
-&lt;p&gt;I’ve updated the contact info of all the software people who appear in the book (over 50 of them!), and snazzed up &lt;a href=&quot;https://leanpub.com/datadump/&quot;&gt;the landing page for the book&lt;/a&gt; (&lt;strong&gt;head on over to that page if you want to be notified once it’s published!&lt;/strong&gt;).&lt;/p&gt;
+<p>I’ve updated the contact info of all the software people who appear in the book (over 50 of them!), and snazzed up <a href="https://leanpub.com/datadump/">the landing page for the book</a> (<strong>head on over to that page if you want to be notified once it’s published!</strong>).</p>
 
-&lt;p&gt;Besides all that, I’ve decided to bite the bullet and actually pay for some help with the book cover, instead of YOLOing my way to a homemade book cover design. A helpful reader of &lt;a href=&quot;/blog/leanpub-mission-accomplished&quot;&gt;my previous post&lt;/a&gt; alerted me to a designer they know, and I’ve been working with him to come up with a book cover that’ll wow the publishing world, and no doubt lead to this book hitting the best seller list within weeks, if not days!&lt;/p&gt;
+<p>Besides all that, I’ve decided to bite the bullet and actually pay for some help with the book cover, instead of YOLOing my way to a homemade book cover design. A helpful reader of <a href="/blog/leanpub-mission-accomplished">my previous post</a> alerted me to a designer they know, and I’ve been working with him to come up with a book cover that’ll wow the publishing world, and no doubt lead to this book hitting the best seller list within weeks, if not days!</p>
 
-&lt;p&gt;Once the book cover design’s complete, I should be all ready to pull the trigger, and release this handy software book out into the world🤞&lt;/p&gt;
+<p>Once the book cover design’s complete, I should be all ready to pull the trigger, and release this handy software book out into the world🤞</p>
 
-&lt;p&gt;So keep your eye out for that! That’s all for now…&lt;/p&gt;</content><author><name></name></author><summary type="html">Heck yeah, we’re moving ever closer to the actual release of this book! 🙌</summary></entry><entry><title type="html">Leanpub: Mission Accomplished</title><link href="http://localhost:4000/blog/leanpub-mission-accomplished" rel="alternate" type="text/html" title="Leanpub: Mission Accomplished" /><published>2021-04-25T14:22:21-04:00</published><updated>2021-04-25T14:22:21-04:00</updated><id>http://localhost:4000/blog/leanpub-mission-accomplished</id><content type="html" xml:base="http://localhost:4000/blog/leanpub-mission-accomplished">&lt;p style=&quot;float: left;margin: 0 20px 20px 0;&quot;&gt;&lt;img src=&quot;/assets/images/dwight-celebrate.gif&quot; alt=&quot;We did it.&quot; title=&quot;We did it.&quot; /&gt;&lt;/p&gt;
+<p>So keep your eye out for that! That’s all for now…</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Heck yeah, we’re moving ever closer to the actual release of this book! 🙌]]></summary></entry><entry><title type="html">Leanpub: Mission Accomplished</title><link href="http://localhost:4000/blog/leanpub-mission-accomplished" rel="alternate" type="text/html" title="Leanpub: Mission Accomplished" /><published>2021-04-25T14:22:21-04:00</published><updated>2021-04-25T14:22:21-04:00</updated><id>http://localhost:4000/blog/leanpub-mission-accomplished</id><content type="html" xml:base="http://localhost:4000/blog/leanpub-mission-accomplished"><![CDATA[<p style="float: left;margin: 0 20px 20px 0;"><img src="/assets/images/dwight-celebrate.gif" alt="We did it." title="We did it." /></p>
 
-&lt;p&gt;Welp, I did it. I’ve finished getting my book from Google Docs into &lt;a href=&quot;https://leanpub.com/&quot;&gt;Leanpub&lt;/a&gt; about a month after &lt;a href=&quot;/blog/set-sail-for-leanpub&quot;&gt;first diving into Leanpub&lt;/a&gt;, and have fixed the bucketful of formatting problems I ran into along the way (mainly mismatched footnotes and strange characters popping up).&lt;/p&gt;
+<p>Welp, I did it. I’ve finished getting my book from Google Docs into <a href="https://leanpub.com/">Leanpub</a> about a month after <a href="/blog/set-sail-for-leanpub">first diving into Leanpub</a>, and have fixed the bucketful of formatting problems I ran into along the way (mainly mismatched footnotes and strange characters popping up).</p>
 
-&lt;p&gt;Leanpub hasn’t been too bad to use! They have a ton o’ documentation, plus a pretty active message forum where people be trading tips n’ tricks. If you’re thinking of self-publishing, you could definitely do worse than Leanpub.&lt;/p&gt;
+<p>Leanpub hasn’t been too bad to use! They have a ton o’ documentation, plus a pretty active message forum where people be trading tips n’ tricks. If you’re thinking of self-publishing, you could definitely do worse than Leanpub.</p>
 
-&lt;p&gt;Next up for the book is for me to figure out the cover, update people’s mini biographies, and then spread the word, far and wide! Luckily I have a couple hours a week to devote to all this 😅&lt;/p&gt;
+<p>Next up for the book is for me to figure out the cover, update people’s mini biographies, and then spread the word, far and wide! Luckily I have a couple hours a week to devote to all this 😅</p>
 
-&lt;p&gt;By the way, if you know someone who could help with the book cover or marketing, &lt;strong&gt;&lt;em&gt;let me know!&lt;/em&gt;&lt;/strong&gt; I’m definitely not an expert at either of those things, so any advice is welcome.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Set Sail for Leanpub</title><link href="http://localhost:4000/blog/set-sail-for-leanpub" rel="alternate" type="text/html" title="Set Sail for Leanpub" /><published>2021-03-21T14:16:17-04:00</published><updated>2021-03-21T14:16:17-04:00</updated><id>http://localhost:4000/blog/set-sail-for-leanpub</id><content type="html" xml:base="http://localhost:4000/blog/set-sail-for-leanpub">&lt;p&gt;Last year, I researched a ton of different publishing options, and reached out to a dozen or so publishers through my literary agent, Professor Joseph M. Peck.&lt;/p&gt;
+<p>By the way, if you know someone who could help with the book cover or marketing, <strong><em>let me know!</em></strong> I’m definitely not an expert at either of those things, so any advice is welcome.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Set Sail for Leanpub</title><link href="http://localhost:4000/blog/set-sail-for-leanpub" rel="alternate" type="text/html" title="Set Sail for Leanpub" /><published>2021-03-21T14:16:17-04:00</published><updated>2021-03-21T14:16:17-04:00</updated><id>http://localhost:4000/blog/set-sail-for-leanpub</id><content type="html" xml:base="http://localhost:4000/blog/set-sail-for-leanpub"><![CDATA[<p>Last year, I researched a ton of different publishing options, and reached out to a dozen or so publishers through my literary agent, Professor Joseph M. Peck.</p>
 
-&lt;p&gt;Most of them either didn’t reply or replied with a quick “No thanks”, although I ended up working with a couple of them for a few months before things fizzled out (e.g., “It doesn’t fit with the direction we’re taking”).&lt;/p&gt;
+<p>Most of them either didn’t reply or replied with a quick “No thanks”, although I ended up working with a couple of them for a few months before things fizzled out (e.g., “It doesn’t fit with the direction we’re taking”).</p>
 
-&lt;p&gt;My thoughts began to turn to &lt;strong&gt;self-publishing&lt;/strong&gt; as a way to get the book out to the yearning public…&lt;/p&gt;
+<p>My thoughts began to turn to <strong>self-publishing</strong> as a way to get the book out to the yearning public…</p>
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/look-at-me.jpg&quot; alt=&quot;Look at me. I am the publisher now.&quot; title=&quot;Look at me. I am the publisher now.&quot; /&gt;&lt;/p&gt;
+<p><img src="/assets/images/look-at-me.jpg" alt="Look at me. I am the publisher now." title="Look at me. I am the publisher now." /></p>
 
-&lt;p&gt;Anyhoo, a few people sent me &lt;a href=&quot;https://threadreaderapp.com/thread/1282199525562753025.html&quot;&gt;this Twitter thread&lt;/a&gt; by Vlad Mihalcea (&lt;a href=&quot;https://twitter.com/vlad_mihalcea&quot;&gt;@vlad_mihalcea&lt;/a&gt;) where he detailed how he wrote and published his technical book. After checking it out a bit more, I decided to give &lt;a href=&quot;https://leanpub.com/&quot;&gt;ol’ Leanpub&lt;/a&gt; a shot yesterday.&lt;/p&gt;
+<p>Anyhoo, a few people sent me <a href="https://threadreaderapp.com/thread/1282199525562753025.html">this Twitter thread</a> by Vlad Mihalcea (<a href="https://twitter.com/vlad_mihalcea">@vlad_mihalcea</a>) where he detailed how he wrote and published his technical book. After checking it out a bit more, I decided to give <a href="https://leanpub.com/">ol’ Leanpub</a> a shot yesterday.</p>
 
-&lt;p&gt;I was crestfallen to learn that they &lt;a href=&quot;http://help.leanpub.com/en/articles/4995616-what-happened-to-leanpub-s-google-docs-writing-mode&quot;&gt;recently got rid of their Google Docs writing mode&lt;/a&gt;, since that’s what my whole book is written in. But, in the true American spirit, I hoisted up my bootstraps and began figuring out how to get my book from Google Docs into Leanpub.&lt;/p&gt;
+<p>I was crestfallen to learn that they <a href="http://help.leanpub.com/en/articles/4995616-what-happened-to-leanpub-s-google-docs-writing-mode">recently got rid of their Google Docs writing mode</a>, since that’s what my whole book is written in. But, in the true American spirit, I hoisted up my bootstraps and began figuring out how to get my book from Google Docs into Leanpub.</p>
 
-&lt;p&gt;I found this &lt;a href=&quot;https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607&quot;&gt;handy Docs to Markdown extension&lt;/a&gt;, and started using it. It mostly seems to work, but once I get the files into Leanpub, the real “fun” begins.&lt;/p&gt;
+<p>I found this <a href="https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607">handy Docs to Markdown extension</a>, and started using it. It mostly seems to work, but once I get the files into Leanpub, the real “fun” begins.</p>
 
-&lt;p&gt;Some crazy formatting happens; smart quotes get turned into wacky characters, question marks get weird, and oh lawd the footnotes. It’s taking more time than I’d hoped to get the footnotes working (for example, it keeps adding two footnotes to a spot where I’m only specifying one in the markdown).&lt;/p&gt;
+<p>Some crazy formatting happens; smart quotes get turned into wacky characters, question marks get weird, and oh lawd the footnotes. It’s taking more time than I’d hoped to get the footnotes working (for example, it keeps adding two footnotes to a spot where I’m only specifying one in the markdown).</p>
 
-&lt;p&gt;That being said, I’m not about to give up on Leanpub yet. Parts of it seem to work really well (although I’m not able to scroll with a mouse in writing mode), and I think once I figure out the footnotes it’ll be smooth sailing 🤞&lt;/p&gt;
+<p>That being said, I’m not about to give up on Leanpub yet. Parts of it seem to work really well (although I’m not able to scroll with a mouse in writing mode), and I think once I figure out the footnotes it’ll be smooth sailing 🤞</p>
 
-&lt;p&gt;If you have experience with Leanpub, or another publisher, por favor let me know!&lt;/p&gt;</content><author><name></name></author><summary type="html">Last year, I researched a ton of different publishing options, and reached out to a dozen or so publishers through my literary agent, Professor Joseph M. Peck.</summary></entry><entry><title type="html">Sneak Peek: Diversity of Perspectives</title><link href="http://localhost:4000/blog/sneak-peek-diversity-of-perspectives" rel="alternate" type="text/html" title="Sneak Peek: Diversity of Perspectives" /><published>2021-02-07T12:39:56-05:00</published><updated>2021-02-07T12:39:56-05:00</updated><id>http://localhost:4000/blog/sneak-peek-diversity-of-perspectives</id><content type="html" xml:base="http://localhost:4000/blog/sneak-peek-diversity-of-perspectives">&lt;p&gt;&lt;img src=&quot;/assets/images/monk-writing.jpg&quot; alt=&quot;Monk writing a manuscript&quot; title=&quot;Behind-the-scenes look at my writing process&quot; /&gt;&lt;/p&gt;
+<p>If you have experience with Leanpub, or another publisher, por favor let me know!</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Last year, I researched a ton of different publishing options, and reached out to a dozen or so publishers through my literary agent, Professor Joseph M. Peck.]]></summary></entry><entry><title type="html">Sneak Peek: Diversity of Perspectives</title><link href="http://localhost:4000/blog/sneak-peek-diversity-of-perspectives" rel="alternate" type="text/html" title="Sneak Peek: Diversity of Perspectives" /><published>2021-02-07T12:39:56-05:00</published><updated>2021-02-07T12:39:56-05:00</updated><id>http://localhost:4000/blog/sneak-peek-diversity-of-perspectives</id><content type="html" xml:base="http://localhost:4000/blog/sneak-peek-diversity-of-perspectives"><![CDATA[<p><img src="/assets/images/monk-writing.jpg" alt="Monk writing a manuscript" title="Behind-the-scenes look at my writing process" /></p>
 
-&lt;p&gt;I’ve mentioned &lt;a href=&quot;/blog/so-whats-up-with-the-book&quot;&gt;a time&lt;/a&gt; or &lt;a href=&quot;/blog/new-year-new-momentum&quot;&gt;two&lt;/a&gt; on this site that I’m writing a book aimed at people just now jumping into software development, but I haven’t shared any of the book outside of some editors… until now.&lt;/p&gt;
+<p>I’ve mentioned <a href="/blog/so-whats-up-with-the-book">a time</a> or <a href="/blog/new-year-new-momentum">two</a> on this site that I’m writing a book aimed at people just now jumping into software development, but I haven’t shared any of the book outside of some editors… until now.</p>
 
-&lt;p&gt;I figure there’s a few benefits to sharing parts of a book before it’s done. For one, maybe it’ll get a person or two pumped up about reading the book once it’s completed. Two, it’ll help motivate me to finish this book if I feel like more people are waiting on it.&lt;/p&gt;
+<p>I figure there’s a few benefits to sharing parts of a book before it’s done. For one, maybe it’ll get a person or two pumped up about reading the book once it’s completed. Two, it’ll help motivate me to finish this book if I feel like more people are waiting on it.</p>
 
-&lt;p&gt;A big piece of my book is made up of interviews with experienced software people. To give a feel for the wide variety of viewpoints readers can expect to see in my book, I wrote the section below, which will be near the beginning of the book.&lt;/p&gt;
+<p>A big piece of my book is made up of interviews with experienced software people. To give a feel for the wide variety of viewpoints readers can expect to see in my book, I wrote the section below, which will be near the beginning of the book.</p>
 
-&lt;p&gt;Let me know your thoughts on it! And if you decide you’d like to follow along as this book progresses, either &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdSHAza-dYgLOqR20o_hwcTtbd1o4d2d5-0wM8Ssadpnh7hBQ/viewform&quot;&gt;leave your email here&lt;/a&gt; or &lt;a href=&quot;/feed.xml&quot;&gt;follow the RSS feed&lt;/a&gt;.&lt;/p&gt;
+<p>Let me know your thoughts on it! And if you decide you’d like to follow along as this book progresses, either <a href="https://docs.google.com/forms/d/e/1FAIpQLSdSHAza-dYgLOqR20o_hwcTtbd1o4d2d5-0wM8Ssadpnh7hBQ/viewform">leave your email here</a> or <a href="/feed.xml">follow the RSS feed</a>.</p>
 
-&lt;hr /&gt;
+<hr />
 
-&lt;h1 style=&quot;margin-top: 15px&quot;&gt;Diversity of Perspectives&lt;/h1&gt;
-&lt;p&gt;Although many of the excellent software professionals who appear here crossed paths with me in a small geographic area (North Carolina’s Research Triangle), they have wildly different backgrounds and experiences, providing a diverse set of viewpoints in their answers.&lt;/p&gt;
+<h1 style="margin-top: 15px">Diversity of Perspectives</h1>
+<p>Although many of the excellent software professionals who appear here crossed paths with me in a small geographic area (North Carolina’s Research Triangle), they have wildly different backgrounds and experiences, providing a diverse set of viewpoints in their answers.</p>
 
-&lt;p&gt;Many of the software experts in this book don’t have “traditional” computer science backgrounds. Some dropped out of college or graduated with a degree unrelated to programming. Many of them have worked in completely different fields, including a science museum docent, cicerone (like a sommelier, but for beer!), farmer, chef, and high school teacher, before making the move into software.&lt;/p&gt;
+<p>Many of the software experts in this book don’t have “traditional” computer science backgrounds. Some dropped out of college or graduated with a degree unrelated to programming. Many of them have worked in completely different fields, including a science museum docent, cicerone (like a sommelier, but for beer!), farmer, chef, and high school teacher, before making the move into software.</p>
 
-&lt;p&gt;These people have lived all over the world – India, Vietnam, Singapore – and across the USA, from Portland on down to Miami. They’re fluent in a slew of programming languages, including JavaScript, Go, Ruby, Python, and Elixir, as well as many real-world languages, such as Hindi, Chinese, Spanish, Russian, Bosnian, and German, to name a few. They’ve worked many different jobs at a wide variety of companies. Several have founded their own successful startups, while others have worked at international mega-corporations like Google and Cisco.&lt;/p&gt;
+<p>These people have lived all over the world – India, Vietnam, Singapore – and across the USA, from Portland on down to Miami. They’re fluent in a slew of programming languages, including JavaScript, Go, Ruby, Python, and Elixir, as well as many real-world languages, such as Hindi, Chinese, Spanish, Russian, Bosnian, and German, to name a few. They’ve worked many different jobs at a wide variety of companies. Several have founded their own successful startups, while others have worked at international mega-corporations like Google and Cisco.</p>
 
-&lt;p&gt;Some of them have even written tech books of their own! And a few others are core contributors to very popular code libraries (Babel and Terraform, to name two) that are used daily by tens of thousands of software developers around the world.&lt;/p&gt;
+<p>Some of them have even written tech books of their own! And a few others are core contributors to very popular code libraries (Babel and Terraform, to name two) that are used daily by tens of thousands of software developers around the world.</p>
 
-&lt;p&gt;Thanks to this depth and diversity, this book is able to provide many different viewpoints and advice from these software professionals. I know I learned a ton from reading the respondents’ survey responses, and I bet you will, too; this book is chock-full of lessons about how to succeed in the software biz and to better understand just what it’s like to work in this field.&lt;/p&gt;
+<p>Thanks to this depth and diversity, this book is able to provide many different viewpoints and advice from these software professionals. I know I learned a ton from reading the respondents’ survey responses, and I bet you will, too; this book is chock-full of lessons about how to succeed in the software biz and to better understand just what it’s like to work in this field.</p>
 
-&lt;p&gt;With such a wide, fantastic pool of software development knowledge at my beck and call, I had to come up with some dang good questions to ask in hope of drawing out all that sweet, hard-won programming wisdom. To set the scene, and also so you know the questions I sent these experts (and why), I’ll go over them here and answer each one myself. After that, we’ll move on to the meat and potatoes of this book: the illuminating responses from the esteemed programming professionals.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">New Year, New Momentum</title><link href="http://localhost:4000/blog/new-year-new-momentum" rel="alternate" type="text/html" title="New Year, New Momentum" /><published>2021-01-30T15:10:38-05:00</published><updated>2021-01-30T15:10:38-05:00</updated><id>http://localhost:4000/blog/new-year-new-momentum</id><content type="html" xml:base="http://localhost:4000/blog/new-year-new-momentum">&lt;p&gt;Welp, everyone’s favorite year has ended, and it’s on to 2021.&lt;/p&gt;
+<p>With such a wide, fantastic pool of software development knowledge at my beck and call, I had to come up with some dang good questions to ask in hope of drawing out all that sweet, hard-won programming wisdom. To set the scene, and also so you know the questions I sent these experts (and why), I’ll go over them here and answer each one myself. After that, we’ll move on to the meat and potatoes of this book: the illuminating responses from the esteemed programming professionals.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">New Year, New Momentum</title><link href="http://localhost:4000/blog/new-year-new-momentum" rel="alternate" type="text/html" title="New Year, New Momentum" /><published>2021-01-30T15:10:38-05:00</published><updated>2021-01-30T15:10:38-05:00</updated><id>http://localhost:4000/blog/new-year-new-momentum</id><content type="html" xml:base="http://localhost:4000/blog/new-year-new-momentum"><![CDATA[<p>Welp, everyone’s favorite year has ended, and it’s on to 2021.</p>
 
-&lt;p&gt;I’ve neglected working on this book for a bit, but some random serendipity has kickstarted things back in motion.&lt;/p&gt;
+<p>I’ve neglected working on this book for a bit, but some random serendipity has kickstarted things back in motion.</p>
 
-&lt;p&gt;About a week ago, I talked with a class at the local coding bootcamp &lt;a href=&quot;https://www.momentumlearn.com/&quot;&gt;Momentum&lt;/a&gt; and realized (again) how much a book like this could help people just starting out in software development.&lt;/p&gt;
+<p>About a week ago, I talked with a class at the local coding bootcamp <a href="https://www.momentumlearn.com/">Momentum</a> and realized (again) how much a book like this could help people just starting out in software development.</p>
 
-&lt;p&gt;Also, a few really helpful people have been helping proofread and edit the book recently, so I’ve been inspired to keep all this momentum going.&lt;/p&gt;
+<p>Also, a few really helpful people have been helping proofread and edit the book recently, so I’ve been inspired to keep all this momentum going.</p>
 
-&lt;p&gt;Getting the book 80% done was a piece o’ cake, compared to finishing this last 20%.&lt;/p&gt;
+<p>Getting the book 80% done was a piece o’ cake, compared to finishing this last 20%.</p>
 
-&lt;p&gt;2021 is the year this book will be released to the world, or my name’s not Joseph M. Peck, Esq!&lt;/p&gt;</content><author><name></name></author><summary type="html">Welp, everyone’s favorite year has ended, and it’s on to 2021.</summary></entry><entry><title type="html">So What’s Up With The Book?</title><link href="http://localhost:4000/blog/so-whats-up-with-the-book" rel="alternate" type="text/html" title="So What’s Up With The Book?" /><published>2020-10-17T15:36:05-04:00</published><updated>2020-10-17T15:36:05-04:00</updated><id>http://localhost:4000/blog/so-whats-up-with-the-book</id><content type="html" xml:base="http://localhost:4000/blog/so-whats-up-with-the-book">&lt;p&gt;“Hold up,” I hear you say, “What book are you talking about?”&lt;/p&gt;
+<p>2021 is the year this book will be released to the world, or my name’s not Joseph M. Peck, Esq!</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Welp, everyone’s favorite year has ended, and it’s on to 2021.]]></summary></entry><entry><title type="html">So What’s Up With The Book?</title><link href="http://localhost:4000/blog/so-whats-up-with-the-book" rel="alternate" type="text/html" title="So What’s Up With The Book?" /><published>2020-10-17T15:36:05-04:00</published><updated>2020-10-17T15:36:05-04:00</updated><id>http://localhost:4000/blog/so-whats-up-with-the-book</id><content type="html" xml:base="http://localhost:4000/blog/so-whats-up-with-the-book"><![CDATA[<p>“Hold up,” I hear you say, “What book are you talking about?”</p>
 
-&lt;p&gt;Welp, I’ve been working on a book about software development for over a year now. I interviewed more than 50 software professionals, and squeezed (squoze?) helpful real-life lessons out of them.&lt;/p&gt;
+<p>Welp, I’ve been working on a book about software development for over a year now. I interviewed more than 50 software professionals, and squeezed (squoze?) helpful real-life lessons out of them.</p>
 
-&lt;p&gt;My goal is for the book to help people who are just now starting out in software, as well as reigniting the fire for grizzled, world-weary coding veterans.&lt;/p&gt;
+<p>My goal is for the book to help people who are just now starting out in software, as well as reigniting the fire for grizzled, world-weary coding veterans.</p>
 
-&lt;p&gt;This book is taking so dang long &lt;em&gt;mainly&lt;/em&gt; because it’s been tough to squeeze out some dedicated time to sit down and work on it, what with two lil’ kids and a full-time job.&lt;/p&gt;
+<p>This book is taking so dang long <em>mainly</em> because it’s been tough to squeeze out some dedicated time to sit down and work on it, what with two lil’ kids and a full-time job.</p>
 
-&lt;p&gt;But, whining aside, the book is nearing the finish line! I have a bunch of small updates to make regarding the interviewees, and also some polishing up to do, but I’d estimate it’s 90% done!&lt;/p&gt;
+<p>But, whining aside, the book is nearing the finish line! I have a bunch of small updates to make regarding the interviewees, and also some polishing up to do, but I’d estimate it’s 90% done!</p>
 
-&lt;p&gt;If you want to follow along as I bumble through writing and publishing my first book, por favor take a few seconds to &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdSHAza-dYgLOqR20o_hwcTtbd1o4d2d5-0wM8Ssadpnh7hBQ/viewform&quot;&gt;sign up for the newsletter&lt;/a&gt; to stay updated on its progress. I promise not to sell your email info, unless someone offers me money, in which case all bets are off.&lt;/p&gt;</content><author><name></name></author><category term="book" /><summary type="html">“Hold up,” I hear you say, “What book are you talking about?”</summary></entry><entry><title type="html">Lo, a Blog is Born Unto the World</title><link href="http://localhost:4000/blog/joes-blog-born-unto-the-world" rel="alternate" type="text/html" title="Lo, a Blog is Born Unto the World" /><published>2020-10-17T14:55:50-04:00</published><updated>2020-10-17T14:55:50-04:00</updated><id>http://localhost:4000/blog/joes-blog-born-unto-the-world</id><content type="html" xml:base="http://localhost:4000/blog/joes-blog-born-unto-the-world">&lt;p&gt;After a year or so of YOLOing it with this website, and not using any framework, I’ve taken the plunge and am giving &lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; a shot.&lt;/p&gt;
+<p>If you want to follow along as I bumble through writing and publishing my first book, por favor take a few seconds to <a href="https://docs.google.com/forms/d/e/1FAIpQLSdSHAza-dYgLOqR20o_hwcTtbd1o4d2d5-0wM8Ssadpnh7hBQ/viewform">sign up for the newsletter</a> to stay updated on its progress. I promise not to sell your email info, unless someone offers me money, in which case all bets are off.</p>]]></content><author><name></name></author><category term="book" /><summary type="html"><![CDATA[“Hold up,” I hear you say, “What book are you talking about?”]]></summary></entry><entry><title type="html">Lo, a Blog is Born Unto the World</title><link href="http://localhost:4000/blog/joes-blog-born-unto-the-world" rel="alternate" type="text/html" title="Lo, a Blog is Born Unto the World" /><published>2020-10-17T14:55:50-04:00</published><updated>2020-10-17T14:55:50-04:00</updated><id>http://localhost:4000/blog/joes-blog-born-unto-the-world</id><content type="html" xml:base="http://localhost:4000/blog/joes-blog-born-unto-the-world"><![CDATA[<p>After a year or so of YOLOing it with this website, and not using any framework, I’ve taken the plunge and am giving <a href="https://jekyllrb.com">Jekyll</a> a shot.</p>
 
-&lt;p&gt;I wanted to add a web log (or “blog” as some of the young bloods have taken to calling it), and didn’t want to be copying and pasting template/navigation changes across a bunch of files.&lt;/p&gt;
+<p>I wanted to add a web log (or “blog” as some of the young bloods have taken to calling it), and didn’t want to be copying and pasting template/navigation changes across a bunch of files.</p>
 
-&lt;p&gt;Turns out Jekyll’s pretty jawsome! There’s a little learning curve, and I don’t quite have this site looking like I want it to (next step: get pop-up ads up and running), but dangit, it’s good enough for now.&lt;/p&gt;
+<p>Turns out Jekyll’s pretty jawsome! There’s a little learning curve, and I don’t quite have this site looking like I want it to (next step: get pop-up ads up and running), but dangit, it’s good enough for now.</p>
 
-&lt;p&gt;I plan on using this to post updates about the &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdSHAza-dYgLOqR20o_hwcTtbd1o4d2d5-0wM8Ssadpnh7hBQ/viewform&quot;&gt;software book I’m writing&lt;/a&gt;, plus other idears that pop into my noggin.&lt;/p&gt;
+<p>I plan on using this to post updates about the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdSHAza-dYgLOqR20o_hwcTtbd1o4d2d5-0wM8Ssadpnh7hBQ/viewform">software book I’m writing</a>, plus other idears that pop into my noggin.</p>
 
-&lt;p&gt;I hope you enjoy your stay at PeckYeah; por favor stay as long as you like 🙇&lt;/p&gt;</content><author><name></name></author><category term="technology" /><summary type="html">After a year or so of YOLOing it with this website, and not using any framework, I’ve taken the plunge and am giving Jekyll a shot.</summary></entry></feed>
+<p>I hope you enjoy your stay at PeckYeah; por favor stay as long as you like 🙇</p>]]></content><author><name></name></author><category term="technology" /><summary type="html"><![CDATA[After a year or so of YOLOing it with this website, and not using any framework, I’ve taken the plunge and am giving Jekyll a shot.]]></summary></entry></feed>
