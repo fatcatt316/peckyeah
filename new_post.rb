@@ -19,7 +19,7 @@ def create_post(*title)
     post.puts "---"
   end
 
-  system("subl", filename)
+  system("code", filename)
 end
 
 create_post(ARGV[0])
