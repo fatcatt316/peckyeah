@@ -4,7 +4,8 @@ source "https://rubygems.org"
 gem "minima", "~> 2.5"
 # gem 'jekyll-theme-hyde', '~> 2.0'
 
-gem "github-pages", "~> 232",  group: :jekyll_plugins # brings in Jekyll
+# github-pages pins Jekyll 3.x; use Jekyll 4 directly for newer Ruby compatibility.
+gem "jekyll", "~> 4.4"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

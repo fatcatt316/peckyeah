@@ -31,6 +31,12 @@ github_username: fatcatt316
 # Build settings
 # theme: jekyll-theme-hyde
 theme: minima
+
+# ponytail: silence Sass @import deprecation noise from the minima theme;
+# revisit when minima ships @use support, then remove this
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
